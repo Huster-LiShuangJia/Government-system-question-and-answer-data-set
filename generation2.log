@@ -1,0 +1,190 @@
+2025-07-03 15:53:53,225 - QAGenerator - INFO - Thread 6936 - 成功加载了 380 个已有的QA对。
+2025-07-03 15:53:53,225 - QAGenerator - INFO - Thread 6588 - ========== 开始处理文件: 政务系统问答数据集/origin_files/第二批/公司登记管理实施办法.docx ==========
+2025-07-03 15:53:53,225 - QAGenerator - INFO - Thread 37600 - ========== 开始处理文件: 政务系统问答数据集\origin_files\第二批\名称登记管理办法.docx ==========
+2025-07-03 15:53:53,225 - QAGenerator - INFO - Thread 39716 - ========== 开始处理文件: 政务系统问答数据集\origin_files\第二批\企业服务授信额度.docx ==========
+2025-07-03 15:53:53,225 - QAGenerator - INFO - Thread 24124 - ========== 开始处理文件: 政务系统问答数据集\origin_files\第二批\政务智能体企业服务 问答对.docx ==========
+2025-07-03 15:53:53,225 - QAGenerator - INFO - Thread 38600 - ========== 开始处理文件: 政务系统问答数据集\origin_files\第二批\政务智能体企业服务 问答对.docx（旷).docx ==========
+2025-07-03 15:53:53,282 - QAGenerator - INFO - Thread 6588 - 成功读取Word文件: 政务系统问答数据集/origin_files/第二批/公司登记管理实施办法.docx
+2025-07-03 15:53:53,283 - QAGenerator - INFO - Thread 6588 - 文件 公司登记管理实施办法.docx 已被切分成 2 个重叠的文本块。
+2025-07-03 15:53:53,283 - QAGenerator - INFO - Thread 6588 - --- 正在为文件 '公司登记管理实施办法.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-03 15:53:53,296 - QAGenerator - INFO - Thread 38600 - 成功读取Word文件: 政务系统问答数据集/origin_files/第二批/政务智能体企业服务 问答对.docx（旷).docx
+2025-07-03 15:53:53,296 - QAGenerator - INFO - Thread 38600 - 文件 政务智能体企业服务 问答对.docx（旷).docx 已被切分成 1 个重叠的文本块。
+2025-07-03 15:53:53,296 - QAGenerator - INFO - Thread 38600 - --- 正在为文件 '政务智能体企业服务 问答对.docx（旷).docx' 的第 1/1 个文本块生成QA对 ---
+2025-07-03 15:53:53,312 - QAGenerator - INFO - Thread 37600 - 成功读取Word文件: 政务系统问答数据集/origin_files/第二批/名称登记管理办法.docx
+2025-07-03 15:53:53,314 - QAGenerator - INFO - Thread 37600 - 文件 名称登记管理办法.docx 已被切分成 4 个重叠的文本块。
+2025-07-03 15:53:53,314 - QAGenerator - INFO - Thread 37600 - --- 正在为文件 '名称登记管理办法.docx' 的第 1/4 个文本块生成QA对 ---
+2025-07-03 15:53:53,322 - QAGenerator - INFO - Thread 39716 - 成功读取Word文件: 政务系统问答数据集/origin_files/第二批/企业服务授信额度.docx
+2025-07-03 15:53:53,322 - QAGenerator - INFO - Thread 39716 - 文件 企业服务授信额度.docx 已被切分成 4 个重叠的文本块。
+2025-07-03 15:53:53,322 - QAGenerator - INFO - Thread 39716 - --- 正在为文件 '企业服务授信额度.docx' 的第 1/4 个文本块生成QA对 ---
+2025-07-03 15:53:53,342 - QAGenerator - INFO - Thread 24124 - 成功读取Word文件: 政务系统问答数据集/origin_files/第二批/政务智能体企业服务 问答对.docx
+2025-07-03 15:53:53,343 - QAGenerator - INFO - Thread 24124 - 文件 政务智能体企业服务 问答对.docx 已被切分成 5 个重叠的文本块。
+2025-07-03 15:53:53,343 - QAGenerator - INFO - Thread 24124 - --- 正在为文件 '政务智能体企业服务 问答对.docx' 的第 1/5 个文本块生成QA对 ---
+2025-07-03 15:54:53,849 - QAGenerator - WARNING - Thread 38600 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:54:53,849 - QAGenerator - INFO - Thread 38600 - 将在 2 秒后重试...
+2025-07-03 15:54:53,881 - QAGenerator - WARNING - Thread 6588 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:54:53,882 - QAGenerator - INFO - Thread 6588 - 将在 2 秒后重试...
+2025-07-03 15:54:53,922 - QAGenerator - WARNING - Thread 24124 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:54:53,922 - QAGenerator - INFO - Thread 24124 - 将在 2 秒后重试...
+2025-07-03 15:54:53,926 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:54:53,926 - QAGenerator - INFO - Thread 37600 - 将在 2 秒后重试...
+2025-07-03 15:54:53,938 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:54:53,938 - QAGenerator - INFO - Thread 39716 - 将在 2 秒后重试...
+2025-07-03 15:55:53,274 - QAGenerator - INFO - Thread 24124 - 成功生成并添加了 10 个QA对。总数: 390
+2025-07-03 15:55:53,276 - QAGenerator - INFO - Thread 24124 - 进度已保存，当前总计 390 个。
+2025-07-03 15:55:53,276 - QAGenerator - INFO - Thread 24124 - --- 正在为文件 '政务智能体企业服务 问答对.docx' 的第 2/5 个文本块生成QA对 ---
+2025-07-03 15:55:56,458 - QAGenerator - WARNING - Thread 38600 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:55:56,458 - QAGenerator - INFO - Thread 38600 - 将在 4 秒后重试...
+2025-07-03 15:55:56,592 - QAGenerator - WARNING - Thread 6588 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:55:56,592 - QAGenerator - INFO - Thread 6588 - 将在 4 秒后重试...
+2025-07-03 15:55:56,600 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:55:56,600 - QAGenerator - INFO - Thread 37600 - 将在 4 秒后重试...
+2025-07-03 15:55:56,609 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:55:56,610 - QAGenerator - INFO - Thread 39716 - 将在 4 秒后重试...
+2025-07-03 15:56:39,871 - QAGenerator - INFO - Thread 24124 - 成功生成并添加了 10 个QA对。总数: 400
+2025-07-03 15:56:39,872 - QAGenerator - INFO - Thread 24124 - 进度已保存，当前总计 400 个。
+2025-07-03 15:56:39,872 - QAGenerator - INFO - Thread 24124 - --- 正在为文件 '政务智能体企业服务 问答对.docx' 的第 3/5 个文本块生成QA对 ---
+2025-07-03 15:56:57,833 - QAGenerator - INFO - Thread 37600 - 成功生成并添加了 10 个QA对。总数: 410
+2025-07-03 15:56:57,838 - QAGenerator - INFO - Thread 37600 - 进度已保存，当前总计 410 个。
+2025-07-03 15:56:57,838 - QAGenerator - INFO - Thread 37600 - --- 正在为文件 '名称登记管理办法.docx' 的第 2/4 个文本块生成QA对 ---
+2025-07-03 15:57:00,937 - QAGenerator - WARNING - Thread 38600 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:57:00,938 - QAGenerator - INFO - Thread 38600 - 将在 8 秒后重试...
+2025-07-03 15:57:01,144 - QAGenerator - WARNING - Thread 6588 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:57:01,146 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:57:01,146 - QAGenerator - INFO - Thread 6588 - 将在 8 秒后重试...
+2025-07-03 15:57:01,146 - QAGenerator - INFO - Thread 39716 - 将在 8 秒后重试...
+2025-07-03 15:57:19,676 - QAGenerator - ERROR - Thread 24124 - 模型返回的不是有效的JSON格式，或无法从中提取JSON。收到的内容是: '用户希望我根据一段背景文字生成10个问题-答案对。我需要严格遵守用户提出的每一条规则。
+
+以下是规则的分解：
+
+1. **基于背景知识：** 所有答案必须来自提供的文本。不进行外部查找或推断。
+2. **以场景为导向的问题：** 想象用户是父母、公民等，会提出什么样的问题。
+3. **逐步解答：** 以清晰、编号的步骤形式提供详细解答，如同教练指导他人。
+4. **仅针对当前片段提问：** 不要涉及文本之外的内容。
+5. **JSON数组格式：** 以严格的JSON格式输出，例如`[{"question": "...", "answer": "..."}, ...]`。没有任何其他输出。
+6. **图表/流程识别：** 特别针对流程图或图片（如果提到）提出问题。描述性的问答对需要有编号的步骤。
+
+提供的文本似乎是一系列Q&A风格的政策和法规。它没有明确提到任何图表或流程。因此，我需要根据现有的格式生成所有10个问题，专注于Q&A的风格，并在可能的情况下使其适合企业主或需要此信息的人员。
+
+让我们根据文本规划10个问题：
+
+1. **问题1（减税降费）：** 专注于“一次性税前扣除”，并使其适合有新设备的企业。
+2. **问题2（专精特新）：** 专注于“小巨人”企业支持，适合寻求增长的公司。
+3. **问题3（简化审批）：** 询问“多证合一”如何简化注册流程，适合新企业主。
+4. **问题4（征信体系）：** 询问纳税信用等级，适合关注信用的企业主。
+5. **问题5（授信支持）：** 询问“银税互动”的流程，适合寻求贷款的企业主。
+6. **问题6（政策衔接）：** 询问如何找到公示的优惠政策，适合寻求合规的企业主。
+7. **问题7（减税降费 - 批准公告）：** 关注疫情期间的税收减免，适合受疫情影响的企业主。
+8. **问题8（专精特新 - 批准公告）：** 关注数字化转型补贴，适合希望进行数字化转型的企业主。
+9. **问题9（简化审批 - 批准公告）：** 提问关于“一照一码”的好处，适合新企业主。
+10. **问题10（征信体系 - 批准公告）：** 提问关于严重失信名单的恢复过程，适合面对信用问题的企业主。
+
+现在，我将根据文本创建这些问题和答案，并确保答案详细且按照编号步骤格式排列。<|end_of_thought|>```json
+[
+{"question": "我们公司刚刚购买了一批新设备，想了解下现在有什么税收政策可以减轻我们的负担吗？", "answer": "您好！针对新购设备，符合条件的设备是允许一次性税前扣除的，这就意味着您公司购买的设备不再需要像以前那样分年进行折旧抵扣，而是在购买的当年就可以一次性计入成本费用进行税前扣除，这样能够有效减少您公司的应纳税所得额，从而降低税负。"],
+{"question": "我是一家‘专精特新’小巨人企业，想了解国家对于像我们这样的企业，在资金支持方面有哪些具体的政策可以申请呢？", "answer": "恭喜贵公司成为‘专精特新’小巨人企业！国家对于‘专精特新’小巨人企业在资金支持方面有专门的政策。  首先，是由省级工业和信息化主管部门负责组织推荐和上报申请中央财政资金的项目。  其次，申请的资金主要用于技术研发，提升核心技术能力；二是用于设备投入，扩大生产规模或进行技术改造；三是用于数字化改造，提升企业信息化水平；四是用于质量标准提升，提高产品质量和竞争力。  请您关注您所在省的工业和信息化厅的通知，他们会组织相关申报工作。"],
+{"question": "开公司的时候听说现在办理手续很简单，‘多证合一’具体是怎么回事呢？能详细解释一下吗？", "answer": "是的，现在公司注册确实比以前方便多了！‘多证合一’改革是指将工商营业执照、组织机构代码证、税务登记证等多个证照合并为一张加载统一社会信用代码的营业执照。  具体来说，就是您在办理企业注册登记时，只需要向工商部门提交一套材料，工商部门审核通过后，会核发加载统一社会信用代码的营业执照。  这个营业执照包含了以前多个证照的功能，企业凭这张营业执照就可以办理所有的相关业务，大大简化了注册流程，节约了时间成本。"],
+{"question": "我们公司最近因为一些原因，纳税信用等级降到了D级，这会对公司的经营产生什么影响呢？", "answer": "纳税信用等级为D级确实会对公司经营产生一定的影响。  首先，信用记录是银行等金融机构的重要考量依据，D级信用可能会导致贷款申请困难。  其次，根据国家发改委等部门的规定，D级纳税人可能会被列入失信名单，导致在融资、政府采购、工程招投标等领域受到限制。  因此，建议贵公司尽快依法诚信纳税，争取通过纳税信用修复，提升信用等级，减少负面影响。"],
+{"question": "我听银行的客户经理说过‘银税互动’这个贷款产品，说是可以根据我们公司的纳税记录来申请贷款，具体我们需要向银行提供哪些资料呢？", "answer": "您好！‘银税互动’贷款产品确实是一个非常好的利用纳税信用获取融资的渠道。  如果您想通过‘银税互动’申请贷款，一般来说需要向银行提交以下资料：  一是税务授权书，授权银行查询您的纳税信息；二是纳税记录，证明您公司有稳定的纳税情况；三是企业营业执照，证明您公司的合法经营资质。  具体所需材料可能因不同银行的业务要求而有所差异，建议您咨询具体合作银行的详细申请资料清单。"],
+{"question": "最近我们公司在积极申请一些政府的扶持政策，想了解一下，企业在享受优惠政策之后，这些政策信息会在哪里公示呢？我们怎么才能查询到这些公示信息呢？", "answer": "为了确保政策透明和公开，政府相关部门会对企业享受优惠政策的信息进行公示。  一般来说，这些公示信息会发布在政府相关部门的官方网站上，例如财政局、工信厅等的网站。  另外，重要的政策信息也会在‘信用中国’平台上进行公示。  您可以通过以下步骤查询：  1.  访问您所在地政府相关部门的官方网站，例如财政局、工信厅等；  2.  在网站上查找‘政策公示’、‘资金公示’、‘企业扶持’等栏目；  3.  或者直接访问‘信用中国’平台，在平台上搜索您公司的名称或相关政策名称，即可查询到公示信息。"],
+{"question": "因为疫情的原因，我们公司经营压力很大，想了解一下房产税方面有没有什么可以申请减免的政策呢？", "answer": "您好！考虑到疫情对部分企业带来的影响，国家和地方层面都有出台一些房产税和城镇土地使用税减免政策。  具体来说，如果您公司符合相关政策规定的困难行业企业和中小微企业等条件，是可以申请减免疫情期间的房产税和城镇土地使用税的。  建议您关注您所在地区的财政局和税务局官方网站，查找关于疫情期间房产税和城镇土地使用税减免的具体政策文件和申请指南，了解详细的减免条件、申请流程和所需材料，以便及时申请享受减免优惠。"],
+{"question": "我是一家‘专精特新’企业，最近想加速数字化转型，请问国家对于‘专精特新’企业在数字化转型方面有没有什么补贴政策可以申请呢？", "answer": "为了支持‘专精特新’企业高质量发展，国家层面设立了专项资金，支持‘专精特新’企业数字化转型。  这些资金主要用于支持企业实施数字化改造项目，例如智能化改造、工业互联网应用、上云上平台等。  中央财政和地方财政都会有相应的资金支持。  您可以关注工业和信息化部以及您所在省工业和信息化厅的官方网站，查找关于‘专精特新’企业数字化转型专项支持资金的政策文件和申报通知，了解具体的申报条件、支持方向和申报流程，积极进行申报。"],
+{"question": "我第一次注册公司，不太了解税务登记的流程，请问新办企业税务登记有什么需要注意的吗？", "answer": "您好！作为新办企业，税务登记是重要的环节。  根据税务总局的规定，您需要在取得营业执照后的30日内办理税务登记。  办理税务登记时，需要携带加载统一社会信用代码的营业执照原件和复印件，以及法定代表人身份证等相关资料，到主管税务机关办理。  现在税务登记也大力推行线上办理，您可以通过电子税务局等线上平台进行税务登记，足不出户即可完成。  建议您在办理前咨询当地税务机关，了解详细的办理流程和所需资料，以便顺利完成税务登记。"],
+{"question": "如果公司被列入了严重失信名单，对我们公司形象和后续发展都非常不利，请问一旦被列入严重失信名单，我们应该怎么处理才能尽快修复信用呢？", "answer": "被列入严重失信名单确实会对企业发展带来负面影响。  不过，国家也建立了信用修复机制。  如果您的公司被列入了严重失信名单，首先需要主动纠正失信行为，消除不良影响。  其次，要及时联系列入失信名单的认定部门，了解具体的信用修复流程和所需材料。  通常需要向认定部门提交信用修复申请书、已履行法定义务或纠正失信行为的证明材料、诚信守法承诺书等。  认定部门会对您的信用修复申请进行审核，如果符合修复条件，会将您移出严重失信名单。  建议您积极配合认定部门的信用修复工作，并认真学习相关法律法规，提升诚信经营意识。"]
+]
+```'
+2025-07-03 15:57:19,682 - QAGenerator - WARNING - Thread 24124 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-03 15:57:19,682 - QAGenerator - INFO - Thread 24124 - --- 正在为文件 '政务智能体企业服务 问答对.docx' 的第 4/5 个文本块生成QA对 ---
+2025-07-03 15:57:58,345 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:57:58,345 - QAGenerator - INFO - Thread 37600 - 将在 2 秒后重试...
+2025-07-03 15:58:09,418 - QAGenerator - WARNING - Thread 38600 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:58:09,418 - QAGenerator - INFO - Thread 38600 - 将在 16 秒后重试...
+2025-07-03 15:58:09,698 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:58:09,698 - QAGenerator - INFO - Thread 39716 - 将在 16 秒后重试...
+2025-07-03 15:58:09,727 - QAGenerator - WARNING - Thread 6588 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:58:09,727 - QAGenerator - INFO - Thread 6588 - 将在 16 秒后重试...
+2025-07-03 15:58:20,182 - QAGenerator - WARNING - Thread 24124 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:58:20,182 - QAGenerator - INFO - Thread 24124 - 将在 2 秒后重试...
+2025-07-03 15:59:00,859 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:59:00,859 - QAGenerator - INFO - Thread 37600 - 将在 4 秒后重试...
+2025-07-03 15:59:14,129 - QAGenerator - INFO - Thread 24124 - 成功生成并添加了 1 个QA对。总数: 411
+2025-07-03 15:59:14,129 - QAGenerator - INFO - Thread 24124 - --- 正在为文件 '政务智能体企业服务 问答对.docx' 的第 5/5 个文本块生成QA对 ---
+2025-07-03 15:59:16,628 - QAGenerator - INFO - Thread 6588 - 成功生成并添加了 10 个QA对。总数: 421
+2025-07-03 15:59:16,631 - QAGenerator - INFO - Thread 6588 - 进度已保存，当前总计 421 个。
+2025-07-03 15:59:16,631 - QAGenerator - INFO - Thread 6588 - --- 正在为文件 '公司登记管理实施办法.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-03 15:59:25,863 - QAGenerator - WARNING - Thread 38600 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:59:25,863 - QAGenerator - ERROR - Thread 38600 - API调用在所有 5 次尝试后均失败。
+2025-07-03 15:59:25,863 - QAGenerator - ERROR - Thread 38600 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-03 15:59:25,865 - QAGenerator - WARNING - Thread 38600 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-03 15:59:26,292 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 15:59:26,292 - QAGenerator - ERROR - Thread 39716 - API调用在所有 5 次尝试后均失败。
+2025-07-03 15:59:26,292 - QAGenerator - ERROR - Thread 39716 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-03 15:59:26,292 - QAGenerator - WARNING - Thread 39716 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-03 15:59:26,292 - QAGenerator - INFO - Thread 39716 - --- 正在为文件 '企业服务授信额度.docx' 的第 2/4 个文本块生成QA对 ---
+2025-07-03 16:00:09,878 - QAGenerator - INFO - Thread 6588 - 成功生成并添加了 10 个QA对。总数: 431
+2025-07-03 16:00:09,883 - QAGenerator - INFO - Thread 6588 - 进度已保存，当前总计 431 个。
+2025-07-03 16:00:14,649 - QAGenerator - WARNING - Thread 24124 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:00:14,649 - QAGenerator - INFO - Thread 24124 - 将在 2 秒后重试...
+2025-07-03 16:00:26,974 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:00:26,975 - QAGenerator - INFO - Thread 39716 - 将在 2 秒后重试...
+2025-07-03 16:01:02,336 - QAGenerator - INFO - Thread 24124 - 成功生成并添加了 10 个QA对。总数: 441
+2025-07-03 16:01:02,339 - QAGenerator - INFO - Thread 24124 - 进度已保存，当前总计 441 个。
+2025-07-03 16:01:29,543 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:01:29,543 - QAGenerator - INFO - Thread 39716 - 将在 4 秒后重试...
+2025-07-03 16:02:05,220 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 3/5 次尝试时失败: HTTPSConnectionPool(host='jiutian.10086.cn', port=443): Read timed out. (read timeout=180)
+2025-07-03 16:02:05,220 - QAGenerator - INFO - Thread 37600 - 将在 8 秒后重试...
+2025-07-03 16:02:34,128 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:02:34,128 - QAGenerator - INFO - Thread 39716 - 将在 8 秒后重试...
+2025-07-03 16:03:13,838 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:03:13,838 - QAGenerator - INFO - Thread 37600 - 将在 16 秒后重试...
+2025-07-03 16:03:42,639 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:03:42,639 - QAGenerator - INFO - Thread 39716 - 将在 16 秒后重试...
+2025-07-03 16:04:30,318 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:04:30,318 - QAGenerator - ERROR - Thread 37600 - API调用在所有 5 次尝试后均失败。
+2025-07-03 16:04:30,318 - QAGenerator - ERROR - Thread 37600 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-03 16:04:30,318 - QAGenerator - WARNING - Thread 37600 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-03 16:04:30,318 - QAGenerator - INFO - Thread 37600 - --- 正在为文件 '名称登记管理办法.docx' 的第 3/4 个文本块生成QA对 ---
+2025-07-03 16:04:52,288 - QAGenerator - INFO - Thread 39716 - 成功生成并添加了 10 个QA对。总数: 451
+2025-07-03 16:04:52,292 - QAGenerator - INFO - Thread 39716 - 进度已保存，当前总计 451 个。
+2025-07-03 16:04:52,292 - QAGenerator - INFO - Thread 39716 - --- 正在为文件 '企业服务授信额度.docx' 的第 3/4 个文本块生成QA对 ---
+2025-07-03 16:05:52,828 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:05:52,828 - QAGenerator - INFO - Thread 39716 - 将在 2 秒后重试...
+2025-07-03 16:06:55,309 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:06:55,309 - QAGenerator - INFO - Thread 39716 - 将在 4 秒后重试...
+2025-07-03 16:07:30,784 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 1/5 次尝试时失败: HTTPSConnectionPool(host='jiutian.10086.cn', port=443): Read timed out. (read timeout=180)
+2025-07-03 16:07:30,784 - QAGenerator - INFO - Thread 37600 - 将在 2 秒后重试...
+2025-07-03 16:07:59,807 - QAGenerator - WARNING - Thread 39716 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:07:59,807 - QAGenerator - INFO - Thread 39716 - 将在 8 秒后重试...
+2025-07-03 16:08:33,278 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:08:33,278 - QAGenerator - INFO - Thread 37600 - 将在 4 秒后重试...
+2025-07-03 16:09:01,899 - QAGenerator - INFO - Thread 39716 - 成功生成并添加了 10 个QA对。总数: 461
+2025-07-03 16:09:01,902 - QAGenerator - INFO - Thread 39716 - 进度已保存，当前总计 461 个。
+2025-07-03 16:09:01,902 - QAGenerator - INFO - Thread 39716 - --- 正在为文件 '企业服务授信额度.docx' 的第 4/4 个文本块生成QA对 ---
+2025-07-03 16:09:37,806 - QAGenerator - WARNING - Thread 37600 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-03 16:09:37,806 - QAGenerator - INFO - Thread 37600 - 将在 8 秒后重试...
+2025-07-03 16:09:54,343 - QAGenerator - INFO - Thread 39716 - 成功生成并添加了 6 个QA对。总数: 467
+2025-07-03 16:10:33,118 - QAGenerator - INFO - Thread 37600 - 成功生成并添加了 10 个QA对。总数: 477
+2025-07-03 16:10:33,121 - QAGenerator - INFO - Thread 37600 - 进度已保存，当前总计 477 个。
+2025-07-03 16:10:33,121 - QAGenerator - INFO - Thread 37600 - --- 正在为文件 '名称登记管理办法.docx' 的第 4/4 个文本块生成QA对 ---
+2025-07-03 16:11:04,034 - QAGenerator - INFO - Thread 37600 - 成功生成并添加了 10 个QA对。总数: 487
+2025-07-03 16:11:04,039 - QAGenerator - INFO - Thread 37600 - 进度已保存，当前总计 487 个。

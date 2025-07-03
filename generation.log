@@ -1,0 +1,960 @@
+2025-07-02 17:52:36,299 - QAGenerator - INFO - Thread 67624 - 成功加载了 495 个已有的QA对。
+2025-07-02 17:52:36,301 - QAGenerator - INFO - Thread 62528 - ========== 开始处理文件: 政务系统问答数据集/origin_files/论⽂阅读.docx ==========
+2025-07-02 17:52:36,301 - QAGenerator - INFO - Thread 31856 - ========== 开始处理文件: 政务系统问答数据集/origin_files/九天大模型应用平台用户使用手册.pdf ==========
+2025-07-02 17:52:36,301 - QAGenerator - INFO - Thread 53136 - ========== 开始处理文件: 政务系统问答数据集/origin_files/幼儿早期阅读兴趣的激发策略_戴薇.pdf ==========
+2025-07-02 17:52:36,302 - QAGenerator - INFO - Thread 23016 - ========== 开始处理文件: 政务系统问答数据集/origin_files/幼儿身长与体重标准表.pdf ==========
+2025-07-02 17:52:36,302 - QAGenerator - INFO - Thread 54648 - ========== 开始处理文件: 政务系统问答数据集/origin_files/幼儿年龄与身高标准数值表.pdf ==========
+2025-07-02 17:52:36,302 - QAGenerator - ERROR - Thread 31856 - 读取PDF文件 政务系统问答数据集/origin_files/九天大模型应用平台用户使用手册.pdf 失败: [Errno 2] No such file or directory: '政务系统问答数据集/origin_files/九天大模型应用平台用户使用手册.pdf'
+2025-07-02 17:52:36,302 - QAGenerator - INFO - Thread 71404 - ========== 开始处理文件: 政务系统问答数据集/origin_files/婴幼儿营养喂养评估服务指南.docx ==========
+2025-07-02 17:52:36,303 - QAGenerator - INFO - Thread 74600 - ========== 开始处理文件: 政务系统问答数据集/origin_files/婴儿健康用品资料.doc ==========
+2025-07-02 17:52:36,303 - QAGenerator - ERROR - Thread 62528 - 读取Word文件 政务系统问答数据集/origin_files/论⽂阅读.docx 失败: Package not found at '政务系统问答数据集/origin_files/论⽂阅读.docx'
+2025-07-02 17:52:36,303 - QAGenerator - INFO - Thread 74188 - ========== 开始处理文件: 政务系统问答数据集/origin_files/疫苗接种.pdf ==========
+2025-07-02 17:52:36,303 - QAGenerator - INFO - Thread 56196 - ========== 开始处理文件: 政务系统问答数据集/origin_files/一.docx ==========
+2025-07-02 17:52:36,304 - QAGenerator - WARNING - Thread 31856 - 文件内容为空或读取失败: 政务系统问答数据集/origin_files/九天大模型应用平台用户使用手册.pdf
+2025-07-02 17:52:36,304 - QAGenerator - INFO - Thread 63236 - ========== 开始处理文件: 政务系统问答数据集/origin_files/续表.pdf ==========
+2025-07-02 17:52:36,306 - QAGenerator - INFO - Thread 58092 - ========== 开始处理文件: 政务系统问答数据集/origin_files/健康儿童行动提升计划.docx ==========
+2025-07-02 17:52:36,310 - QAGenerator - INFO - Thread 58960 - ========== 开始处理文件: 政务系统问答数据集/origin_files/儿童心理.doc ==========
+2025-07-02 17:52:36,311 - QAGenerator - INFO - Thread 78864 - ========== 开始处理文件: 政务系统问答数据集/origin_files/儿童听力.doc ==========
+2025-07-02 17:52:36,311 - QAGenerator - WARNING - Thread 62528 - 文件内容为空或读取失败: 政务系统问答数据集/origin_files/论⽂阅读.docx
+2025-07-02 17:52:36,313 - QAGenerator - INFO - Thread 46808 - ========== 开始处理文件: 政务系统问答数据集/origin_files/儿童视力2.doc ==========
+2025-07-02 17:52:36,325 - QAGenerator - INFO - Thread 20772 - ========== 开始处理文件: 政务系统问答数据集/origin_files/儿童口腔.doc ==========
+2025-07-02 17:52:36,340 - QAGenerator - INFO - Thread 31856 - ========== 开始处理文件: 政务系统问答数据集/origin_files/促进幼儿自主性与规则意识协调发展的教育策略_刘易.pdf ==========
+2025-07-02 17:52:36,358 - QAGenerator - INFO - Thread 74764 - ========== 开始处理文件: 政务系统问答数据集/origin_files/出生缺陷综合防治方案的通知.docx ==========
+2025-07-02 17:52:36,362 - QAGenerator - INFO - Thread 58676 - ========== 开始处理文件: 政务系统问答数据集/origin_files/1.婴幼儿亲子交流与玩耍咨询指导docx.docx ==========
+2025-07-02 17:52:36,391 - QAGenerator - INFO - Thread 27716 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/10/推动个人养老金发展.docx ==========
+2025-07-02 17:52:36,497 - QAGenerator - INFO - Thread 16456 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/10/人口总量有所下降 人口高质量发展取得成效.docx ==========
+2025-07-02 17:52:36,502 - QAGenerator - INFO - Thread 62528 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/10/国务院办公厅关于加快完善生育支持政策体系推动建设生育友好型社会的若干措施.docx ==========
+2025-07-02 17:52:36,540 - QAGenerator - INFO - Thread 1300 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/10/国务院办公厅关于促进.docx ==========
+2025-07-02 17:52:36,601 - QAGenerator - INFO - Thread 54648 - 成功读取PDF文件: 政务系统问答数据集/origin_files/幼儿年龄与身高标准数值表.pdf
+2025-07-02 17:52:36,604 - QAGenerator - INFO - Thread 36772 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/10/关于组织申报2024年中央财政支持普惠托育服务发展示范项目的通知.docx ==========
+2025-07-02 17:52:36,617 - QAGenerator - INFO - Thread 78136 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/10/关于进一步完善和落实积极生育支持措施的指导意见.docx ==========
+2025-07-02 17:52:36,634 - QAGenerator - INFO - Thread 66424 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/9/政府工作报告.docx ==========
+2025-07-02 17:52:36,710 - QAGenerator - INFO - Thread 84508 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/9/卫生健康委 发展改革委 中央宣传部 教育部 民政部.docx ==========
+2025-07-02 17:52:36,761 - QAGenerator - INFO - Thread 54364 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/9/国务院办公厅关于全面推进生育保险和.docx ==========
+2025-07-02 17:52:36,787 - QAGenerator - INFO - Thread 54580 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/9/促进3岁以下婴幼儿照护服务发展  .docx ==========
+2025-07-02 17:52:36,959 - QAGenerator - INFO - Thread 57556 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/9/2023年全国医疗保障事业发展统计公报.docx ==========
+2025-07-02 17:52:37,113 - QAGenerator - INFO - Thread 54536 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/9/《关于进一步完善和落实积极生育支持措施的指导意见》解读问答.docx ==========
+2025-07-02 17:52:37,143 - QAGenerator - INFO - Thread 66452 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/8/幼儿园管理条例.docx ==========
+2025-07-02 17:52:37,173 - QAGenerator - INFO - Thread 35500 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/8/山东支持幼儿园为2至3岁幼儿提供更多优质托育服务.docx ==========
+2025-07-02 17:52:37,291 - QAGenerator - INFO - Thread 23016 - 成功读取PDF文件: 政务系统问答数据集/origin_files/幼儿身长与体重标准表.pdf
+2025-07-02 17:52:37,311 - QAGenerator - INFO - Thread 6916 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/8/去年我国普惠性幼儿园达23.docx ==========
+2025-07-02 17:52:37,341 - QAGenerator - INFO - Thread 29580 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/8/教育部办公厅 国家卫生健康委办公厅 国家疾控局综合司关于切实抓牢幼儿园和小学近视防控关键阶段防控工作的通知.docx ==========
+2025-07-02 17:52:37,588 - QAGenerator - INFO - Thread 63236 - 成功读取PDF文件: 政务系统问答数据集/origin_files/续表.pdf
+2025-07-02 17:52:37,690 - QAGenerator - INFO - Thread 53136 - 成功读取PDF文件: 政务系统问答数据集/origin_files/幼儿早期阅读兴趣的激发策略_戴薇.pdf
+2025-07-02 17:52:37,690 - QAGenerator - INFO - Thread 54648 - 文件 幼儿年龄与身高标准数值表.pdf 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:37,826 - QAGenerator - INFO - Thread 31856 - 成功读取PDF文件: 政务系统问答数据集/origin_files/促进幼儿自主性与规则意识协调发展的教育策略_刘易.pdf
+2025-07-02 17:52:37,936 - QAGenerator - INFO - Thread 74188 - 成功读取PDF文件: 政务系统问答数据集/origin_files/疫苗接种.pdf
+2025-07-02 17:52:37,943 - QAGenerator - INFO - Thread 23016 - 文件 幼儿身长与体重标准表.pdf 已被切分成 3 个重叠的文本块。
+2025-07-02 17:52:37,947 - QAGenerator - INFO - Thread 63236 - 文件 续表.pdf 已被切分成 3 个重叠的文本块。
+2025-07-02 17:52:37,948 - QAGenerator - INFO - Thread 53136 - 文件 幼儿早期阅读兴趣的激发策略_戴薇.pdf 已被切分成 4 个重叠的文本块。
+2025-07-02 17:52:37,948 - QAGenerator - INFO - Thread 54648 - --- 正在为文件 '幼儿年龄与身高标准数值表.pdf' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:37,949 - QAGenerator - INFO - Thread 31856 - 文件 促进幼儿自主性与规则意识协调发展的教育策略_刘易.pdf 已被切分成 4 个重叠的文本块。
+2025-07-02 17:52:37,949 - QAGenerator - INFO - Thread 74188 - 文件 疫苗接种.pdf 已被切分成 5 个重叠的文本块。
+2025-07-02 17:52:37,951 - QAGenerator - INFO - Thread 23016 - --- 正在为文件 '幼儿身长与体重标准表.pdf' 的第 1/3 个文本块生成QA对 ---
+2025-07-02 17:52:37,951 - QAGenerator - INFO - Thread 63236 - --- 正在为文件 '续表.pdf' 的第 1/3 个文本块生成QA对 ---
+2025-07-02 17:52:37,953 - QAGenerator - INFO - Thread 53136 - --- 正在为文件 '幼儿早期阅读兴趣的激发策略_戴薇.pdf' 的第 1/4 个文本块生成QA对 ---
+2025-07-02 17:52:37,956 - QAGenerator - INFO - Thread 31856 - --- 正在为文件 '促进幼儿自主性与规则意识协调发展的教育策略_刘易.pdf' 的第 1/4 个文本块生成QA对 ---
+2025-07-02 17:52:37,957 - QAGenerator - INFO - Thread 56196 - 成功读取Word文件: 政务系统问答数据集/origin_files/一.docx
+2025-07-02 17:52:37,958 - QAGenerator - INFO - Thread 74188 - --- 正在为文件 '疫苗接种.pdf' 的第 1/5 个文本块生成QA对 ---
+2025-07-02 17:52:37,965 - QAGenerator - INFO - Thread 56196 - 文件 一.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:37,968 - QAGenerator - INFO - Thread 56196 - --- 正在为文件 '一.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:37,999 - QAGenerator - INFO - Thread 74764 - 成功读取Word文件: 政务系统问答数据集/origin_files/出生缺陷综合防治方案的通知.docx
+2025-07-02 17:52:38,000 - QAGenerator - INFO - Thread 74764 - 文件 出生缺陷综合防治方案的通知.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:38,003 - QAGenerator - INFO - Thread 74764 - --- 正在为文件 '出生缺陷综合防治方案的通知.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:38,019 - QAGenerator - INFO - Thread 16456 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/10/人口总量有所下降 人口高质量发展取得成效.docx
+2025-07-02 17:52:38,022 - QAGenerator - INFO - Thread 16456 - 文件 人口总量有所下降 人口高质量发展取得成效.docx 已被切分成 1 个重叠的文本块。
+2025-07-02 17:52:38,027 - QAGenerator - INFO - Thread 16456 - --- 正在为文件 '人口总量有所下降 人口高质量发展取得成效.docx' 的第 1/1 个文本块生成QA对 ---
+2025-07-02 17:52:38,045 - QAGenerator - INFO - Thread 62528 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/10/国务院办公厅关于加快完善生育支持政策体系推动建设生育友好型社会的若干措施.docx
+2025-07-02 17:52:38,045 - QAGenerator - INFO - Thread 62528 - 文件 国务院办公厅关于加快完善生育支持政策体系推动建设生育友好型社会的若干措施.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:38,046 - QAGenerator - INFO - Thread 27716 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/10/推动个人养老金发展.docx
+2025-07-02 17:52:38,047 - QAGenerator - INFO - Thread 62528 - --- 正在为文件 '国务院办公厅关于加快完善生育支持政策体系推动建设生育友好型社会的若干措施.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:38,047 - QAGenerator - INFO - Thread 27716 - 文件 推动个人养老金发展.docx 已被切分成 1 个重叠的文本块。
+2025-07-02 17:52:38,051 - QAGenerator - INFO - Thread 27716 - --- 正在为文件 '推动个人养老金发展.docx' 的第 1/1 个文本块生成QA对 ---
+2025-07-02 17:52:38,060 - QAGenerator - INFO - Thread 58092 - 成功读取Word文件: 政务系统问答数据集/origin_files/健康儿童行动提升计划.docx
+2025-07-02 17:52:38,060 - QAGenerator - INFO - Thread 58092 - 文件 健康儿童行动提升计划.docx 已被切分成 3 个重叠的文本块。
+2025-07-02 17:52:38,062 - QAGenerator - INFO - Thread 58092 - --- 正在为文件 '健康儿童行动提升计划.docx' 的第 1/3 个文本块生成QA对 ---
+2025-07-02 17:52:38,070 - QAGenerator - INFO - Thread 58676 - 成功读取Word文件: 政务系统问答数据集/origin_files/1.婴幼儿亲子交流与玩耍咨询指导docx.docx
+2025-07-02 17:52:38,072 - QAGenerator - INFO - Thread 58676 - 文件 1.婴幼儿亲子交流与玩耍咨询指导docx.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:38,073 - QAGenerator - INFO - Thread 58676 - --- 正在为文件 '1.婴幼儿亲子交流与玩耍咨询指导docx.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:38,087 - QAGenerator - INFO - Thread 78136 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/10/关于进一步完善和落实积极生育支持措施的指导意见.docx
+2025-07-02 17:52:38,088 - QAGenerator - INFO - Thread 78136 - 文件 关于进一步完善和落实积极生育支持措施的指导意见.docx 已被切分成 3 个重叠的文本块。
+2025-07-02 17:52:38,089 - QAGenerator - INFO - Thread 78136 - --- 正在为文件 '关于进一步完善和落实积极生育支持措施的指导意见.docx' 的第 1/3 个文本块生成QA对 ---
+2025-07-02 17:52:38,099 - QAGenerator - INFO - Thread 36772 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/10/关于组织申报2024年中央财政支持普惠托育服务发展示范项目的通知.docx
+2025-07-02 17:52:38,100 - QAGenerator - INFO - Thread 36772 - 文件 关于组织申报2024年中央财政支持普惠托育服务发展示范项目的通知.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:38,100 - QAGenerator - INFO - Thread 36772 - --- 正在为文件 '关于组织申报2024年中央财政支持普惠托育服务发展示范项目的通知.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:38,130 - QAGenerator - INFO - Thread 35500 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/8/山东支持幼儿园为2至3岁幼儿提供更多优质托育服务.docx
+2025-07-02 17:52:38,132 - QAGenerator - INFO - Thread 35500 - 文件 山东支持幼儿园为2至3岁幼儿提供更多优质托育服务.docx 已被切分成 1 个重叠的文本块。
+2025-07-02 17:52:38,133 - QAGenerator - INFO - Thread 1300 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/10/国务院办公厅关于促进.docx
+2025-07-02 17:52:38,135 - QAGenerator - INFO - Thread 35500 - --- 正在为文件 '山东支持幼儿园为2至3岁幼儿提供更多优质托育服务.docx' 的第 1/1 个文本块生成QA对 ---
+2025-07-02 17:52:38,137 - QAGenerator - INFO - Thread 1300 - 文件 国务院办公厅关于促进.docx 已被切分成 3 个重叠的文本块。
+2025-07-02 17:52:38,140 - QAGenerator - INFO - Thread 1300 - --- 正在为文件 '国务院办公厅关于促进.docx' 的第 1/3 个文本块生成QA对 ---
+2025-07-02 17:52:38,150 - QAGenerator - INFO - Thread 54364 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/9/国务院办公厅关于全面推进生育保险和.docx
+2025-07-02 17:52:38,151 - QAGenerator - INFO - Thread 6916 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/8/去年我国普惠性幼儿园达23.docx
+2025-07-02 17:52:38,151 - QAGenerator - INFO - Thread 54364 - 文件 国务院办公厅关于全面推进生育保险和.docx 已被切分成 1 个重叠的文本块。
+2025-07-02 17:52:38,153 - QAGenerator - INFO - Thread 6916 - 文件 去年我国普惠性幼儿园达23.docx 已被切分成 1 个重叠的文本块。
+2025-07-02 17:52:38,156 - QAGenerator - INFO - Thread 54364 - --- 正在为文件 '国务院办公厅关于全面推进生育保险和.docx' 的第 1/1 个文本块生成QA对 ---
+2025-07-02 17:52:38,160 - QAGenerator - INFO - Thread 6916 - --- 正在为文件 '去年我国普惠性幼儿园达23.docx' 的第 1/1 个文本块生成QA对 ---
+2025-07-02 17:52:38,179 - QAGenerator - INFO - Thread 29580 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/8/教育部办公厅 国家卫生健康委办公厅 国家疾控局综合司关于切实抓牢幼儿园和小学近视防控关键阶段防控工作的通知.docx
+2025-07-02 17:52:38,181 - QAGenerator - INFO - Thread 29580 - 文件 教育部办公厅 国家卫生健康委办公厅 国家疾控局综合司关于切实抓牢幼儿园和小学近视防控关键阶段防控工作的通知.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:38,182 - QAGenerator - INFO - Thread 29580 - --- 正在为文件 '教育部办公厅 国家卫生健康委办公厅 国家疾控局综合司关于切实抓牢幼儿园和小学近视防控关键阶段防控工作的通知.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:38,204 - QAGenerator - INFO - Thread 71404 - 成功读取Word文件: 政务系统问答数据集/origin_files/婴幼儿营养喂养评估服务指南.docx
+2025-07-02 17:52:38,205 - QAGenerator - INFO - Thread 71404 - 文件 婴幼儿营养喂养评估服务指南.docx 已被切分成 5 个重叠的文本块。
+2025-07-02 17:52:38,207 - QAGenerator - INFO - Thread 71404 - --- 正在为文件 '婴幼儿营养喂养评估服务指南.docx' 的第 1/5 个文本块生成QA对 ---
+2025-07-02 17:52:38,209 - QAGenerator - INFO - Thread 54580 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/9/促进3岁以下婴幼儿照护服务发展  .docx
+2025-07-02 17:52:38,210 - QAGenerator - INFO - Thread 54580 - 文件 促进3岁以下婴幼儿照护服务发展  .docx 已被切分成 3 个重叠的文本块。
+2025-07-02 17:52:38,213 - QAGenerator - INFO - Thread 54580 - --- 正在为文件 '促进3岁以下婴幼儿照护服务发展  .docx' 的第 1/3 个文本块生成QA对 ---
+2025-07-02 17:52:38,236 - QAGenerator - INFO - Thread 84508 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/9/卫生健康委 发展改革委 中央宣传部 教育部 民政部.docx
+2025-07-02 17:52:38,237 - QAGenerator - INFO - Thread 54536 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/9/《关于进一步完善和落实积极生育支持措施的指导意见》解读问答.docx
+2025-07-02 17:52:38,237 - QAGenerator - INFO - Thread 84508 - 文件 卫生健康委 发展改革委 中央宣传部 教育部 民政部.docx 已被切分成 3 个重叠的文本块。
+2025-07-02 17:52:38,238 - QAGenerator - INFO - Thread 54536 - 文件 《关于进一步完善和落实积极生育支持措施的指导意见》解读问答.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:38,240 - QAGenerator - INFO - Thread 84508 - --- 正在为文件 '卫生健康委 发展改革委 中央宣传部 教育部 民政部.docx' 的第 1/3 个文本块生成QA对 ---
+2025-07-02 17:52:38,241 - QAGenerator - INFO - Thread 54536 - --- 正在为文件 '《关于进一步完善和落实积极生育支持措施的指导意见》解读问答.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:38,258 - QAGenerator - INFO - Thread 57556 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/9/2023年全国医疗保障事业发展统计公报.docx
+2025-07-02 17:52:38,259 - QAGenerator - INFO - Thread 57556 - 文件 2023年全国医疗保障事业发展统计公报.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:38,260 - QAGenerator - INFO - Thread 57556 - --- 正在为文件 '2023年全国医疗保障事业发展统计公报.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:38,264 - QAGenerator - INFO - Thread 66424 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/9/政府工作报告.docx
+2025-07-02 17:52:38,265 - QAGenerator - INFO - Thread 66424 - 文件 政府工作报告.docx 已被切分成 8 个重叠的文本块。
+2025-07-02 17:52:38,265 - QAGenerator - INFO - Thread 66424 - --- 正在为文件 '政府工作报告.docx' 的第 1/8 个文本块生成QA对 ---
+2025-07-02 17:52:38,272 - QAGenerator - INFO - Thread 66452 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/8/幼儿园管理条例.docx
+2025-07-02 17:52:38,273 - QAGenerator - INFO - Thread 66452 - 文件 幼儿园管理条例.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:38,273 - QAGenerator - INFO - Thread 66452 - --- 正在为文件 '幼儿园管理条例.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:42,550 - QAGenerator - INFO - Thread 74600 - 正在后台使用Word转换文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\婴儿健康用品资料.doc
+2025-07-02 17:52:45,898 - QAGenerator - INFO - Thread 74600 - 文件成功转换为: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\婴儿健康用品资料.docx
+2025-07-02 17:52:47,321 - QAGenerator - INFO - Thread 58960 - 正在后台使用Word转换文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童心理.doc
+2025-07-02 17:52:47,362 - QAGenerator - INFO - Thread 74600 - 成功读取Word文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\婴儿健康用品资料.docx
+2025-07-02 17:52:47,363 - QAGenerator - INFO - Thread 74600 - 文件 婴儿健康用品资料.doc 已被切分成 4 个重叠的文本块。
+2025-07-02 17:52:47,363 - QAGenerator - INFO - Thread 74600 - --- 正在为文件 '婴儿健康用品资料.doc' 的第 1/4 个文本块生成QA对 ---
+2025-07-02 17:52:49,756 - QAGenerator - INFO - Thread 58960 - 文件成功转换为: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童心理.docx
+2025-07-02 17:52:50,853 - QAGenerator - INFO - Thread 58960 - 成功读取Word文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童心理.docx
+2025-07-02 17:52:50,853 - QAGenerator - INFO - Thread 58960 - 文件 儿童心理.doc 已被切分成 3 个重叠的文本块。
+2025-07-02 17:52:50,854 - QAGenerator - INFO - Thread 58960 - --- 正在为文件 '儿童心理.doc' 的第 1/3 个文本块生成QA对 ---
+2025-07-02 17:52:51,131 - QAGenerator - INFO - Thread 78864 - 正在后台使用Word转换文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童听力.doc
+2025-07-02 17:52:53,713 - QAGenerator - INFO - Thread 78864 - 文件成功转换为: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童听力.docx
+2025-07-02 17:52:54,787 - QAGenerator - INFO - Thread 78864 - 成功读取Word文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童听力.docx
+2025-07-02 17:52:54,787 - QAGenerator - INFO - Thread 78864 - 文件 儿童听力.doc 已被切分成 1 个重叠的文本块。
+2025-07-02 17:52:54,787 - QAGenerator - INFO - Thread 78864 - --- 正在为文件 '儿童听力.doc' 的第 1/1 个文本块生成QA对 ---
+2025-07-02 17:52:55,164 - QAGenerator - INFO - Thread 46808 - 正在后台使用Word转换文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童视力2.doc
+2025-07-02 17:52:57,228 - QAGenerator - INFO - Thread 46808 - 文件成功转换为: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童视力2.docx
+2025-07-02 17:52:58,200 - QAGenerator - INFO - Thread 46808 - 成功读取Word文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童视力2.docx
+2025-07-02 17:52:58,200 - QAGenerator - INFO - Thread 46808 - 文件 儿童视力2.doc 已被切分成 2 个重叠的文本块。
+2025-07-02 17:52:58,201 - QAGenerator - INFO - Thread 46808 - --- 正在为文件 '儿童视力2.doc' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:52:58,894 - QAGenerator - INFO - Thread 20772 - 正在后台使用Word转换文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童口腔.doc
+2025-07-02 17:53:00,336 - QAGenerator - INFO - Thread 20772 - 文件成功转换为: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童口腔.docx
+2025-07-02 17:53:01,262 - QAGenerator - INFO - Thread 20772 - 成功读取Word文件: C:\Users\67080\Desktop\Code_all_in\政务系统问答数据集\origin_files\儿童口腔.docx
+2025-07-02 17:53:01,262 - QAGenerator - INFO - Thread 20772 - 文件 儿童口腔.doc 已被切分成 1 个重叠的文本块。
+2025-07-02 17:53:01,262 - QAGenerator - INFO - Thread 20772 - --- 正在为文件 '儿童口腔.doc' 的第 1/1 个文本块生成QA对 ---
+2025-07-02 17:53:05,435 - QAGenerator - INFO - Thread 74188 - 成功生成并添加了 10 个QA对。总数: 505
+2025-07-02 17:53:05,439 - QAGenerator - INFO - Thread 74188 - 进度已保存，当前总计 505 个。
+2025-07-02 17:53:05,440 - QAGenerator - INFO - Thread 74188 - --- 正在为文件 '疫苗接种.pdf' 的第 2/5 个文本块生成QA对 ---
+2025-07-02 17:53:24,393 - QAGenerator - INFO - Thread 74188 - 成功生成并添加了 10 个QA对。总数: 515
+2025-07-02 17:53:24,401 - QAGenerator - INFO - Thread 74188 - 进度已保存，当前总计 515 个。
+2025-07-02 17:53:24,401 - QAGenerator - INFO - Thread 74188 - --- 正在为文件 '疫苗接种.pdf' 的第 3/5 个文本块生成QA对 ---
+2025-07-02 17:53:31,210 - QAGenerator - INFO - Thread 66424 - 成功生成并添加了 10 个QA对。总数: 525
+2025-07-02 17:53:31,217 - QAGenerator - INFO - Thread 66424 - 进度已保存，当前总计 525 个。
+2025-07-02 17:53:31,217 - QAGenerator - INFO - Thread 66424 - --- 正在为文件 '政府工作报告.docx' 的第 2/8 个文本块生成QA对 ---
+2025-07-02 17:53:31,545 - QAGenerator - INFO - Thread 27716 - 成功生成并添加了 10 个QA对。总数: 535
+2025-07-02 17:53:31,550 - QAGenerator - INFO - Thread 27716 - 进度已保存，当前总计 535 个。
+2025-07-02 17:53:31,551 - QAGenerator - INFO - Thread 27716 - ========== 开始处理文件: 政务系统问答数据集/origin_files/8 9 10/8/坚决纠正幼儿园.docx ==========
+2025-07-02 17:53:31,560 - QAGenerator - INFO - Thread 27716 - 成功读取Word文件: 政务系统问答数据集/origin_files/8 9 10/8/坚决纠正幼儿园.docx
+2025-07-02 17:53:31,560 - QAGenerator - INFO - Thread 27716 - 文件 坚决纠正幼儿园.docx 已被切分成 2 个重叠的文本块。
+2025-07-02 17:53:31,560 - QAGenerator - INFO - Thread 27716 - --- 正在为文件 '坚决纠正幼儿园.docx' 的第 1/2 个文本块生成QA对 ---
+2025-07-02 17:53:31,845 - QAGenerator - INFO - Thread 20772 - 成功生成并添加了 10 个QA对。总数: 545
+2025-07-02 17:53:31,850 - QAGenerator - INFO - Thread 20772 - 进度已保存，当前总计 545 个。
+2025-07-02 17:53:37,316 - QAGenerator - INFO - Thread 63236 - 成功生成并添加了 10 个QA对。总数: 555
+2025-07-02 17:53:37,323 - QAGenerator - INFO - Thread 63236 - 进度已保存，当前总计 555 个。
+2025-07-02 17:53:37,323 - QAGenerator - INFO - Thread 63236 - --- 正在为文件 '续表.pdf' 的第 2/3 个文本块生成QA对 ---
+2025-07-02 17:53:39,945 - QAGenerator - ERROR - Thread 71404 - 模型返回的不是有效的JSON格式，或无法从中提取JSON。收到的内容是: '用户希望从提供的关于婴儿营养评估的官方文件中，为0-3岁婴儿生成10个问答对。
+
+每个问答对应基于文件中的信息，并模拟一个真实的场景，例如父母寻求喂养建议。
+
+我需要创建一个JSON数组，其中包含10个对象，每个对象都有“问题”和“答案”字段。
+
+让我们分解文档并识别关键信息来制定问题：
+
+1. **服务对象：** 0-3岁的婴儿及其看护人。 -> 我们可以为父母制定问题。
+2. **服务时间：** 在1、3、6、8、12、18、24、30、36个月时进行评估。 -> 问题可以与这些年龄相关。
+3. **服务内容：** 健康教育、喂养行为评估、营养状况评估、咨询和指导。 -> 问题可以询问这些方面。
+4. **健康教育内容：** 母乳喂养、辅食添加、均衡饮食、饮食习惯培养。 -> 问题可以询问关于这些主题的建议。
+5. **喂养行为评估：** 纯母乳喂养、喂养频率、配方奶用量。 -> 问题可以询问最佳实践和具体喂养情况。
+6. **营养状况评估：** 体重、身高、BMI（与世卫组织标准比较）。 -> 问题可以询问生长指标及其解释。
+7. **母乳喂养的好处：** 对婴儿和母亲的好处。 -> 问题可以询问母乳喂养的好处和重要性。
+8. **喂养不当/过度喂养的风险：** 营养不良、发育迟缓、肥胖。 -> 问题可以询问喂养不当的后果。
+
+让我们为每个关键领域头脑风暴一些场景化的问题，然后从文件中寻找答案。
+
+问题想法：
+
+1. （面向0-6个月大的宝宝的父母）纯母乳喂养真的足够吗？
+2. （面向6个月以上的宝宝的父母）何时开始添加辅食？
+3. （面向3个月大的宝宝的父母）我的宝宝应该每天喂养多少次？
+4. （面向6个月大的宝宝的父母）混合喂养时如何评估我的宝宝的喂养情况？
+5. （面向2岁的孩子父母）如何防止孩子发生肥胖？
+6. （面向新生儿父母）为什么母乳喂养对我的宝宝很重要？
+7. （面向4个月大的宝宝的父母）我宝宝的体重增长不足怎么办？
+8. （面向1岁的宝宝的父母）如何知道我的宝宝是否营养不良？
+9. （一般）社区提供了哪些婴儿营养评估服务？
+10. （面向8个月大的宝宝的父母）我如何鼓励宝宝养成良好的饮食习惯？
+
+现在，让我们精炼这些问题，并根据文本找到对应的答案。
+
+1. **问题:** 0-6个月的婴儿可以只进行纯母乳喂养吗？
+   **答案:** 是的，根据文本，0-6个月的婴儿可以只进行纯母乳喂养。文本强调母乳是理想的食物，能够满足所有营养需求，不需要额外的水或其他食物。
+
+2. **问题:** 评估0-3岁婴儿营养状况的服务有哪些？
+   **答案:** 提供的服务包括健康教育、喂养行为评估、营养状况评估和咨询指导。
+
+3. **问题:** 在婴儿的哪些月龄会进行营养喂养评估？
+   **答案:** 在1、3、6、8、12、18、24、30、36个月龄进行评估。
+
+4. **问题:** 对于3个月大的纯母乳喂养婴儿，合理的喂养模式是什么？
+   **答案:** 对于3个月大的纯母乳喂养婴儿，按需喂养至关重要，每天喂奶次数应在8次或以上。
+
+5. **问题:** 如果3个月大的婴儿不是纯母乳喂养，如何评估其喂养情况？
+   **答案:** 应询问每日母乳喂养次数和配方奶用量。对于满月的婴儿，每日配方奶量约为600-700毫升，3个月大的婴儿约为800-900毫升。
+
+6. **问题:** 当按需喂养纯母乳喂养的婴儿时，有哪些指标表明喂养合理？
+   **答案:** 对于纯母乳喂养的婴儿，如果他们没有添加水或其他食物，并且在3个月内每天母乳喂养次数达到8次或以上，则认为喂养合理。
+
+7. **问题:** 如果婴儿的按需喂养不足，可能有哪些后果？
+   **答案:** 喂养不足可能导致低体重、生长迟缓和消瘦。这些情况可能影响身体各个系统的发育，导致精神萎靡、食欲不振、免疫力下降和反复感染。
+
+8. **问题:** 宝宝的第一个月需要评估几次营养状况？
+   **答案:** 在宝宝的第一个月，需要进行两次营养喂养评估，分别是在满月和3个月大时（根据提供的服务时间表，在1个月和3个月时进行评估）。
+
+9. **问题:** 如何根据标准评估婴儿的营养状况？
+   **答案:** 使用体重和身高测量值，通过标准差或百分位数法进行评估，参考世卫组织儿童生长标准和年龄体重中位数、年龄身高中位数、身高体重中位数、年龄BMI中位数等指标。
+
+10. **问题:** 为什么母乳喂养对婴儿很重要？
+    **答案:** 母乳是婴儿最理想的天然食物，前6个月纯母乳喂养可以满足婴儿生长发育的所有营养需求。母乳喂养经济、方便、省时、卫生，有助于婴儿达到最佳生长发育和健康状态。母乳喂养还能降低婴儿患感冒、腹泻、肺炎等疾病的风险，减少成年后肥胖、糖尿病和心脑血管疾病等慢性病的发生，促进大脑发育，增进亲子关系。
+
+现在，让我们将这些问题和答案整理成符合场景且详细的格式，并按照要求放入JSON中。<|end_of_thought|>```json
+[
+{"question": "我家宝宝现在3个月大，一直在纯母乳喂养，请问这种喂养方式能满足宝宝的营养需求吗？", "answer": "根据国家卫生健康委发布的《婴幼儿营养喂养评估服务指南（试行）》，0-6月龄婴儿提倡纯母乳喂养。母乳是婴儿最理想的天然食物，能够满足0-6个月婴儿生长发育所需的全部营养，不需要添加水和其他食物。因此，如果您的宝宝一直接受纯母乳喂养，并且您感觉宝宝各方面发育良好，那么这种喂养方式是能够满足宝宝营养需求的。"},
+{"question": "请问国家针对0-3岁婴幼儿的营养喂养情况，会提供哪些服务来帮助我们这些新手父母呢？", "answer": "国家卫生健康委为0-3岁婴幼儿及其养育人提供了婴幼儿营养喂养评估服务。具体包括：\n1. **健康教育**：向您讲解营养喂养的科学知识，例如母乳喂养、辅食添加、合理膳食、饮食行为培养等。\n2. **喂养行为评价**：通过《3岁以下婴幼儿营养喂养评估表》，了解您宝宝的喂养情况，分析可能存在的喂养问题。\n3. **营养状况评价**：通过测量宝宝的身长和体重等，评估宝宝是否存在贫血、低体重、生长迟缓、消瘦、超重、肥胖等情况或风险。\n4. **咨询指导**：根据评估结果，为您提供个性化的咨询和指导，帮助您掌握正确的喂养方法。"},
+{"question": "宝宝多大需要开始进行营养喂养评估呢？频率是怎样的？", "answer": "根据《婴幼儿营养喂养评估服务指南（试行）》，营养喂养评估会在宝宝满1、3、6、8、12、18、24、30、36月龄时进行，一共9次。具体频率如下：\n- 满6月龄前（0-5月龄）：在满月（约1个月）和3月龄时，进行2次评估。\n- 6月龄至24月龄：在6、8、12、18、24月龄时，进行5次评估。\n- 24月龄至36月龄：在30和36月龄时，进行2次评估。"},
+{"question": "我宝宝现在3个月大，是纯母乳喂养，评估时会如何评价我的喂养行为呢？", "answer": "对于3个月大的纯母乳喂养宝宝，评估重点是您是否坚持纯母乳喂养，以及每日哺乳次数。\n- **纯母乳喂养情况评估**：如果您能够做到不添加水和其他食物，并且宝宝每日母乳喂养次数达到8次及以上，那么评估结果会是“母乳喂养合理”。\n- **喂奶量评估**：由于是纯母乳喂养，通常不需要严格计算奶量。评估会关注您是否按需喂养，以及宝宝的生长发育情况。"},
+{"question": "如果我家宝宝没有进行纯母乳喂养，比如是混合喂养或者人工喂养，在评估时会如何评价呢？", "answer": "对于混合喂养和人工喂养的宝宝，评估会重点询问您每日母乳喂养的次数，以及配方奶的喂养量。以3个月大的宝宝为例，如果每日喂奶量在800-900ml左右，则评估为“喂奶量适宜”。 如果喂奶量低于或高于这个范围，则可能会评估为“喂奶量不适宜”，并提示可能存在喂养不足或喂养过度的风险。"},
+{"question": "请问评估宝宝的营养状况，主要是看哪些指标呢？", "answer": "评估婴幼儿营养状况主要通过测量身长（身高）和体重，并使用标准差法或百分位数法，参考世界卫生组织（WHO）儿童生长标准进行评价。评价结果会分为：正常、低体重、生长迟缓、消瘦、超重、肥胖等。例如，如果宝宝的年龄别体重低于标准，可能会被评估为“低体重”；如果年龄别身长低于标准，则可能会被评估为“生长迟缓”。"},
+{"question": "如果评估发现宝宝存在喂养问题，比如喂养不足，可能会有哪些不良后果呢？", "answer": "喂养不足可能导致宝宝出现低体重、生长迟缓和消瘦等问题。长期喂养不足会影响宝宝全身各个系统的发育，表现为精神萎靡、食欲减退、免疫力下降、容易生病等。严重的营养不良还会影响宝宝的认知发展和长期健康。"},
+{"question": "除了定期的营养喂养评估，作为家长，我们平时应该如何关注宝宝的营养状况呢？", "answer": "作为家长，您可以平时注意观察宝宝的生长发育情况，例如体重增长、身高增长、精神状态、食欲等。如有任何疑虑，可以随时咨询医生或专业的营养师。同时，要积极学习科学的喂养知识，例如母乳喂养的技巧、辅食添加的原则、合理膳食的搭配等，确保宝宝获得充足的营养，健康快乐地成长。"},
+{"question": "请问国家卫生健康委印发这个《婴幼儿营养喂养评估服务指南（试行）》的主要目的是什么呢？", "answer": "国家卫生健康委印发《婴幼儿营养喂养评估服务指南（试行）》的主要目的是为了加强婴幼儿营养喂养评估服务，提高服务的可及性和规范性，从而提升儿童的营养和健康状况。具体目标包括：\n- 降低儿童贫血率。\n- 降低生长迟缓率。\n- 减少超重肥胖的发生。\n- 最终是为了实现《中国儿童发展纲要（2021-2030年）》中关于儿童健康的相关目标，促进儿童健康成长。"},
+{"question": "在哪里可以接受到这些婴幼儿营养喂养评估服务呢？", "answer": "婴幼儿营养喂养评估服务由乡镇卫生院、社区卫生服务中心或县级妇幼保健机构提供。您可以通过联系您所在地区的这些机构，了解具体的评估时间和地点，并带宝宝前去接受评估。"},
+]
+```'
+2025-07-02 17:53:39,958 - QAGenerator - WARNING - Thread 71404 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:53:39,958 - QAGenerator - INFO - Thread 71404 - --- 正在为文件 '婴幼儿营养喂养评估服务指南.docx' 的第 2/5 个文本块生成QA对 ---
+2025-07-02 17:53:40,702 - QAGenerator - INFO - Thread 58092 - 成功生成并添加了 10 个QA对。总数: 565
+2025-07-02 17:53:40,706 - QAGenerator - INFO - Thread 58092 - 进度已保存，当前总计 565 个。
+2025-07-02 17:53:40,706 - QAGenerator - INFO - Thread 58092 - --- 正在为文件 '健康儿童行动提升计划.docx' 的第 2/3 个文本块生成QA对 ---
+2025-07-02 17:53:40,967 - QAGenerator - WARNING - Thread 23016 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:40,967 - QAGenerator - INFO - Thread 23016 - 将在 2 秒后重试...
+2025-07-02 17:53:40,989 - QAGenerator - WARNING - Thread 54648 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:40,990 - QAGenerator - INFO - Thread 54648 - 将在 2 秒后重试...
+2025-07-02 17:53:41,032 - QAGenerator - WARNING - Thread 74764 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,034 - QAGenerator - WARNING - Thread 56196 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,034 - QAGenerator - INFO - Thread 74764 - 将在 2 秒后重试...
+2025-07-02 17:53:41,034 - QAGenerator - INFO - Thread 56196 - 将在 2 秒后重试...
+2025-07-02 17:53:41,076 - QAGenerator - WARNING - Thread 16456 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,076 - QAGenerator - INFO - Thread 16456 - 将在 2 秒后重试...
+2025-07-02 17:53:41,085 - QAGenerator - WARNING - Thread 31856 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,086 - QAGenerator - INFO - Thread 31856 - 将在 2 秒后重试...
+2025-07-02 17:53:41,088 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,088 - QAGenerator - INFO - Thread 53136 - 将在 2 秒后重试...
+2025-07-02 17:53:41,120 - QAGenerator - WARNING - Thread 62528 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,121 - QAGenerator - INFO - Thread 62528 - 将在 2 秒后重试...
+2025-07-02 17:53:41,152 - QAGenerator - WARNING - Thread 35500 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,153 - QAGenerator - INFO - Thread 35500 - 将在 2 秒后重试...
+2025-07-02 17:53:41,155 - QAGenerator - WARNING - Thread 6916 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,156 - QAGenerator - INFO - Thread 6916 - 将在 2 秒后重试...
+2025-07-02 17:53:41,156 - QAGenerator - WARNING - Thread 78136 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,157 - QAGenerator - INFO - Thread 78136 - 将在 2 秒后重试...
+2025-07-02 17:53:41,162 - QAGenerator - WARNING - Thread 58676 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,162 - QAGenerator - INFO - Thread 58676 - 将在 2 秒后重试...
+2025-07-02 17:53:41,179 - QAGenerator - WARNING - Thread 36772 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,181 - QAGenerator - INFO - Thread 36772 - 将在 2 秒后重试...
+2025-07-02 17:53:41,216 - QAGenerator - WARNING - Thread 54364 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,217 - QAGenerator - WARNING - Thread 1300 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,217 - QAGenerator - INFO - Thread 54364 - 将在 2 秒后重试...
+2025-07-02 17:53:41,217 - QAGenerator - INFO - Thread 1300 - 将在 2 秒后重试...
+2025-07-02 17:53:41,232 - QAGenerator - WARNING - Thread 54536 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,232 - QAGenerator - INFO - Thread 54536 - 将在 2 秒后重试...
+2025-07-02 17:53:41,236 - QAGenerator - WARNING - Thread 66452 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,236 - QAGenerator - INFO - Thread 66452 - 将在 2 秒后重试...
+2025-07-02 17:53:41,237 - QAGenerator - WARNING - Thread 57556 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,237 - QAGenerator - INFO - Thread 57556 - 将在 2 秒后重试...
+2025-07-02 17:53:41,239 - QAGenerator - WARNING - Thread 54580 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,239 - QAGenerator - WARNING - Thread 84508 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,239 - QAGenerator - INFO - Thread 54580 - 将在 2 秒后重试...
+2025-07-02 17:53:41,239 - QAGenerator - INFO - Thread 84508 - 将在 2 秒后重试...
+2025-07-02 17:53:41,275 - QAGenerator - WARNING - Thread 29580 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:41,276 - QAGenerator - INFO - Thread 29580 - 将在 2 秒后重试...
+2025-07-02 17:53:47,939 - QAGenerator - WARNING - Thread 74600 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:47,941 - QAGenerator - INFO - Thread 74600 - 将在 2 秒后重试...
+2025-07-02 17:53:51,406 - QAGenerator - WARNING - Thread 58960 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:51,407 - QAGenerator - INFO - Thread 58960 - 将在 2 秒后重试...
+2025-07-02 17:53:55,265 - QAGenerator - WARNING - Thread 78864 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:55,266 - QAGenerator - INFO - Thread 78864 - 将在 2 秒后重试...
+2025-07-02 17:53:58,771 - QAGenerator - WARNING - Thread 46808 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:53:58,772 - QAGenerator - INFO - Thread 46808 - 将在 2 秒后重试...
+2025-07-02 17:54:14,968 - QAGenerator - INFO - Thread 57556 - 成功生成并添加了 10 个QA对。总数: 575
+2025-07-02 17:54:14,974 - QAGenerator - INFO - Thread 57556 - 进度已保存，当前总计 575 个。
+2025-07-02 17:54:14,974 - QAGenerator - INFO - Thread 57556 - --- 正在为文件 '2023年全国医疗保障事业发展统计公报.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:54:24,969 - QAGenerator - WARNING - Thread 74188 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:24,969 - QAGenerator - INFO - Thread 74188 - 将在 2 秒后重试...
+2025-07-02 17:54:28,666 - QAGenerator - INFO - Thread 78864 - 成功生成并添加了 10 个QA对。总数: 585
+2025-07-02 17:54:28,671 - QAGenerator - INFO - Thread 78864 - 进度已保存，当前总计 585 个。
+2025-07-02 17:54:30,562 - QAGenerator - INFO - Thread 23016 - 成功生成并添加了 10 个QA对。总数: 595
+2025-07-02 17:54:30,568 - QAGenerator - INFO - Thread 23016 - 进度已保存，当前总计 595 个。
+2025-07-02 17:54:30,568 - QAGenerator - INFO - Thread 23016 - --- 正在为文件 '幼儿身长与体重标准表.pdf' 的第 2/3 个文本块生成QA对 ---
+2025-07-02 17:54:31,786 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:31,787 - QAGenerator - INFO - Thread 66424 - 将在 2 秒后重试...
+2025-07-02 17:54:32,131 - QAGenerator - WARNING - Thread 27716 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:32,131 - QAGenerator - INFO - Thread 27716 - 将在 2 秒后重试...
+2025-07-02 17:54:34,999 - QAGenerator - INFO - Thread 71404 - 成功生成并添加了 10 个QA对。总数: 605
+2025-07-02 17:54:35,005 - QAGenerator - INFO - Thread 71404 - 进度已保存，当前总计 605 个。
+2025-07-02 17:54:35,005 - QAGenerator - INFO - Thread 71404 - --- 正在为文件 '婴幼儿营养喂养评估服务指南.docx' 的第 3/5 个文本块生成QA对 ---
+2025-07-02 17:54:35,713 - QAGenerator - INFO - Thread 74764 - 成功生成并添加了 10 个QA对。总数: 615
+2025-07-02 17:54:35,718 - QAGenerator - INFO - Thread 74764 - 进度已保存，当前总计 615 个。
+2025-07-02 17:54:35,718 - QAGenerator - INFO - Thread 74764 - --- 正在为文件 '出生缺陷综合防治方案的通知.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:54:37,856 - QAGenerator - WARNING - Thread 63236 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:37,856 - QAGenerator - INFO - Thread 63236 - 将在 2 秒后重试...
+2025-07-02 17:54:37,895 - QAGenerator - INFO - Thread 74600 - 成功生成并添加了 10 个QA对。总数: 625
+2025-07-02 17:54:37,900 - QAGenerator - INFO - Thread 74600 - 进度已保存，当前总计 625 个。
+2025-07-02 17:54:37,900 - QAGenerator - INFO - Thread 74600 - --- 正在为文件 '婴儿健康用品资料.doc' 的第 2/4 个文本块生成QA对 ---
+2025-07-02 17:54:41,240 - QAGenerator - WARNING - Thread 58092 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:41,240 - QAGenerator - INFO - Thread 58092 - 将在 2 秒后重试...
+2025-07-02 17:54:41,937 - QAGenerator - INFO - Thread 58676 - 成功生成并添加了 10 个QA对。总数: 635
+2025-07-02 17:54:41,942 - QAGenerator - INFO - Thread 58676 - 进度已保存，当前总计 635 个。
+2025-07-02 17:54:41,942 - QAGenerator - INFO - Thread 58676 - --- 正在为文件 '1.婴幼儿亲子交流与玩耍咨询指导docx.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:54:44,389 - QAGenerator - WARNING - Thread 54648 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:44,389 - QAGenerator - INFO - Thread 54648 - 将在 4 秒后重试...
+2025-07-02 17:54:44,808 - QAGenerator - WARNING - Thread 56196 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:44,808 - QAGenerator - INFO - Thread 56196 - 将在 4 秒后重试...
+2025-07-02 17:54:44,931 - QAGenerator - WARNING - Thread 16456 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:44,931 - QAGenerator - INFO - Thread 16456 - 将在 4 秒后重试...
+2025-07-02 17:54:45,180 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,181 - QAGenerator - INFO - Thread 53136 - 将在 4 秒后重试...
+2025-07-02 17:54:45,191 - QAGenerator - WARNING - Thread 31856 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,192 - QAGenerator - INFO - Thread 31856 - 将在 4 秒后重试...
+2025-07-02 17:54:45,222 - QAGenerator - WARNING - Thread 62528 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,222 - QAGenerator - INFO - Thread 62528 - 将在 4 秒后重试...
+2025-07-02 17:54:45,258 - QAGenerator - WARNING - Thread 35500 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,259 - QAGenerator - INFO - Thread 35500 - 将在 4 秒后重试...
+2025-07-02 17:54:45,272 - QAGenerator - WARNING - Thread 6916 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,273 - QAGenerator - WARNING - Thread 78136 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,273 - QAGenerator - INFO - Thread 6916 - 将在 4 秒后重试...
+2025-07-02 17:54:45,274 - QAGenerator - INFO - Thread 78136 - 将在 4 秒后重试...
+2025-07-02 17:54:45,312 - QAGenerator - WARNING - Thread 36772 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,313 - QAGenerator - INFO - Thread 36772 - 将在 4 秒后重试...
+2025-07-02 17:54:45,320 - QAGenerator - WARNING - Thread 54364 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,320 - QAGenerator - INFO - Thread 54364 - 将在 4 秒后重试...
+2025-07-02 17:54:45,327 - QAGenerator - WARNING - Thread 84508 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,328 - QAGenerator - INFO - Thread 84508 - 将在 4 秒后重试...
+2025-07-02 17:54:45,329 - QAGenerator - WARNING - Thread 54580 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,330 - QAGenerator - INFO - Thread 54580 - 将在 4 秒后重试...
+2025-07-02 17:54:45,349 - QAGenerator - WARNING - Thread 1300 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,351 - QAGenerator - WARNING - Thread 54536 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,351 - QAGenerator - INFO - Thread 1300 - 将在 4 秒后重试...
+2025-07-02 17:54:45,352 - QAGenerator - INFO - Thread 54536 - 将在 4 秒后重试...
+2025-07-02 17:54:45,353 - QAGenerator - WARNING - Thread 66452 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,353 - QAGenerator - INFO - Thread 66452 - 将在 4 秒后重试...
+2025-07-02 17:54:45,357 - QAGenerator - WARNING - Thread 29580 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:45,357 - QAGenerator - INFO - Thread 29580 - 将在 4 秒后重试...
+2025-07-02 17:54:53,942 - QAGenerator - WARNING - Thread 58960 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:54:53,942 - QAGenerator - INFO - Thread 58960 - 将在 4 秒后重试...
+2025-07-02 17:55:01,248 - QAGenerator - WARNING - Thread 46808 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:01,249 - QAGenerator - INFO - Thread 46808 - 将在 4 秒后重试...
+2025-07-02 17:55:01,947 - QAGenerator - INFO - Thread 74188 - 成功生成并添加了 10 个QA对。总数: 645
+2025-07-02 17:55:01,953 - QAGenerator - INFO - Thread 74188 - 进度已保存，当前总计 645 个。
+2025-07-02 17:55:01,953 - QAGenerator - INFO - Thread 74188 - --- 正在为文件 '疫苗接种.pdf' 的第 4/5 个文本块生成QA对 ---
+2025-07-02 17:55:09,828 - QAGenerator - INFO - Thread 71404 - 成功生成并添加了 10 个QA对。总数: 655
+2025-07-02 17:55:09,833 - QAGenerator - INFO - Thread 71404 - 进度已保存，当前总计 655 个。
+2025-07-02 17:55:09,833 - QAGenerator - INFO - Thread 71404 - --- 正在为文件 '婴幼儿营养喂养评估服务指南.docx' 的第 4/5 个文本块生成QA对 ---
+2025-07-02 17:55:09,995 - QAGenerator - INFO - Thread 58676 - 成功生成并添加了 10 个QA对。总数: 665
+2025-07-02 17:55:10,001 - QAGenerator - INFO - Thread 58676 - 进度已保存，当前总计 665 个。
+2025-07-02 17:55:11,363 - QAGenerator - INFO - Thread 57556 - 成功生成并添加了 10 个QA对。总数: 675
+2025-07-02 17:55:11,371 - QAGenerator - INFO - Thread 57556 - 进度已保存，当前总计 675 个。
+2025-07-02 17:55:11,706 - QAGenerator - INFO - Thread 74764 - 成功生成并添加了 10 个QA对。总数: 685
+2025-07-02 17:55:11,711 - QAGenerator - INFO - Thread 74764 - 进度已保存，当前总计 685 个。
+2025-07-02 17:55:28,381 - QAGenerator - INFO - Thread 27716 - 成功生成并添加了 10 个QA对。总数: 695
+2025-07-02 17:55:28,388 - QAGenerator - INFO - Thread 27716 - 进度已保存，当前总计 695 个。
+2025-07-02 17:55:28,389 - QAGenerator - INFO - Thread 27716 - --- 正在为文件 '坚决纠正幼儿园.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:55:30,024 - QAGenerator - INFO - Thread 54648 - 成功生成并添加了 10 个QA对。总数: 705
+2025-07-02 17:55:30,030 - QAGenerator - INFO - Thread 54648 - 进度已保存，当前总计 705 个。
+2025-07-02 17:55:30,031 - QAGenerator - INFO - Thread 54648 - --- 正在为文件 '幼儿年龄与身高标准数值表.pdf' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:55:31,026 - QAGenerator - WARNING - Thread 23016 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:31,026 - QAGenerator - INFO - Thread 23016 - 将在 2 秒后重试...
+2025-07-02 17:55:32,060 - QAGenerator - INFO - Thread 58092 - 成功生成并添加了 10 个QA对。总数: 715
+2025-07-02 17:55:32,066 - QAGenerator - INFO - Thread 58092 - 进度已保存，当前总计 715 个。
+2025-07-02 17:55:32,066 - QAGenerator - INFO - Thread 58092 - --- 正在为文件 '健康儿童行动提升计划.docx' 的第 3/3 个文本块生成QA对 ---
+2025-07-02 17:55:34,269 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:34,270 - QAGenerator - INFO - Thread 66424 - 将在 4 秒后重试...
+2025-07-02 17:55:36,529 - QAGenerator - INFO - Thread 66452 - 成功生成并添加了 10 个QA对。总数: 725
+2025-07-02 17:55:36,534 - QAGenerator - INFO - Thread 66452 - 进度已保存，当前总计 725 个。
+2025-07-02 17:55:36,535 - QAGenerator - INFO - Thread 66452 - --- 正在为文件 '幼儿园管理条例.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:55:38,420 - QAGenerator - WARNING - Thread 74600 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:38,420 - QAGenerator - INFO - Thread 74600 - 将在 2 秒后重试...
+2025-07-02 17:55:40,397 - QAGenerator - WARNING - Thread 63236 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:40,397 - QAGenerator - INFO - Thread 63236 - 将在 4 秒后重试...
+2025-07-02 17:55:43,138 - QAGenerator - ERROR - Thread 53136 - 模型返回的不是有效的JSON格式，或无法从中提取JSON。收到的内容是: '用户希望根据提供的文档片段生成10个问题和答案对。我需要仔细阅读文档，并基于此提出可能的新手父母或普通民众会提出的问题。回答必须非常详细，按照步骤说明，并且只使用文档中的信息。
+
+这里是我的计划：
+
+1. **阅读并理解文档：** 我首先需要理解文档的内容，确定关键点和潜在的疑问领域。文档似乎涉及早期儿童教育中的阅读课程设计或改进。它提到了不同类型的阅读材料、阅读的益处以及阅读应该适应儿童的年龄和发展水平。
+
+2. **识别潜在用户的主题和问题：**基于文档，我认为对阅读儿童早期教育感兴趣的人可能会提出以下问题：
+    * 哪种类型的阅读材料适合年幼的孩子？
+    * 如何选择合适的阅读材料？
+    * 阅读材料中的插图很重要吗？
+    * 文本提到的具体例子有哪些（例如，鲜艳的色彩，简单的情节）？
+    * 阅读活动应该侧重于什么？
+    * 阅读的目的是什么？
+    * 早期阅读的重要性是什么？
+    * 如何通过阅读促进学习？
+    * 措辞对阅读材料很重要吗？
+    * 我应该如何为我的孩子选择阅读材料？
+
+3. **制定10个问题：** 现在我需要根据上述主题，根据文档中表达的语气和内容，适当伪装成来自儿童早期教育或早期学习背景下的用户来明确地表述10个问题。我需要使这些问题具有相关性和独特性。
+
+4. **回答每个问题（基于文档并详细）：** 这是最关键的部分。对于每个问题，我必须查阅文档，找到相关的信息，并详细阐述，引用特定的句子或短语。答案需要以清晰、分段的格式呈现，就像一个指南。我必须完全避免引入外部知识或作出推断。
+
+5. **检查JSON输出：**一旦起草了10个问题和答案，我将仔细检查：
+    * 是否有10个独特的对？
+    * 所有答案是否都基于文档？
+    * 问题是否现实且适当？
+    * 答案是否详细且分段？
+    * 是否严格遵循了JSON格式？是否有任何意外的字符或文本？
+
+在开始起草之前，我将重新阅读约束条件，以确保我对所有要求都有清晰的理解，并仔细关注“仅基于背景知识”，“场景化提问”，“手把手式回答”，“仅针对当前片段提问”和“严格的JSON格式”。
+
+*起草问题和答案的思考过程（示例）：*
+
+*潜在主题：* 阅读材料的插图
+
+*可能的用户问题：* 插图对儿童的阅读材料多重要？ *（太简单，不具体）*
+
+*改进的用户问题：* 文章中提到，在为早期学习设计的阅读材料中，插图扮演着重要角色。根据文章，应该寻找什么样的插图特征？ *（更好，更具体，使用文档的语言）*
+
+*答案（基于文档）：* 根据文章...（引用使用“鲜艳颜色”的句子，并解释其重要性）。文章还提到...（引用关于简单的情节和可爱的情景的句子）。此外，文章指出...（引用有关使用对比色和鲜艳色彩以引起注意的句子）。因此，选择具有... *（总结合乎逻辑的观点）*。
+
+我将在所有10个问题和答案上遵循这一思维过程，确保严格遵守所有给定的约束条件。
+
+*(开始起草问题和答案)*<|end_of_thought|>```json
+[
+{"question": "文章中提到，为早期学习设计的阅读材料中，插图扮演着重要角色。根据文章，应该寻找什么样的插图特征？", "answer": "根据文章，在为早期学习设计的阅读材料中，应该寻找以下插图特征：\n1. **鲜艳的色彩和明亮的画面**：文章中提到“鲜艳的色彩和明亮的画面”能够吸引孩子的注意力，这是选择插图的重要考虑因素。\n2. **简单的故事情节和可爱的情景**：文章指出，对于早期学习阶段的儿童，插图应该尽量选择具有简单故事情节和可爱情景的，以便孩子更容易理解和接受。\n3. **对比强烈的色彩和鲜艳的颜色**：文章特别强调了对比强烈的色彩和鲜艳的颜色，认为这些能够有效地吸引儿童的目光，提升他们的阅读兴趣。"},
+{"question": "对于初学阅读的小朋友，文章建议我们应该如何引导他们阅读？", "answer": "文章建议对于初学阅读的小朋友，我们应该引导他们进行以下尝试：\n1. **尝试阅读一些篇幅短小、内容简单的书籍**： article中提到，可以选择一些篇幅较短、内容相对简单的书籍作为儿童的阅读起点，例如童谣、儿歌等，从而帮助他们建立阅读信心，培养阅读兴趣。\n2. **鼓励他们模仿阅读**：文章指出，在早期阅读阶段，可以鼓励孩子进行模仿阅读，例如跟着大人读，或者自己尝试复述故事内容，以此来锻炼他们的语言能力和阅读理解能力。"},
+{"question": "文章中提到，阅读对于儿童来说有什么重要的意义？", "answer": "文章中提到，阅读对于儿童来说有以下重要的意义：\n1. **培养和提高多种能力**：文章开头就强调，阅读是培养和提高儿童多种能力的重要途径，例如语言能力、思维能力、想象力等等。www.xueqian.com.cn\n2. **提供精神食粮和娱乐放松**：文章认为，阅读不仅能够为儿童提供丰富的精神食粮，还能够让他们在阅读中获得娱乐和放松，从而缓解学习压力，调节身心状态。"},
+{"question": "在选择早期阅读材料时，文章中提到了哪些需要注意的关键要素？", "answer": "文章中提到，在选择早期阅读材料时，需要注意以下关键要素：\n1. **阅读材料的难度要适中**：文章指出，要根据孩子的年龄和发育水平选择难度适宜的阅读材料，既不能太简单乏味，也不能太难让孩子产生挫败感。\n2. **要考虑阅读材料的趣味性**：文章强调，要选择内容生动有趣、能够吸引孩子注意力的阅读材料，这样才能激发他们的阅读兴趣，让他们乐于阅读。
+
+3. **关注阅读材料的印刷质量**：文章提到，要注意选择印刷清晰、色彩鲜艳的阅读材料，这样能够更好地吸引孩子的目光，提升阅读体验。"},
+{"question": "文章中提到了不同年龄段的儿童，其阅读需求和特点有什么不同？", "answer": "文章中提到了不同年龄段的儿童，其阅读需求和特点有所不同，主要体现在：\n1. **小班幼儿**：对于小班幼儿，他们可能还不能完全理解文字的意义，因此阅读活动应该更加注重培养他们的阅读兴趣和习惯，例如可以通过指读、讲故事等方式进行。可以尝试引导他们阅读一些以图为主、文字简单的书籍，让他们逐渐适应阅读环境，培养阅读意识。**\n2. **中大班幼儿**：随着年龄的增长，中大班幼儿的阅读能力有所提高，他们开始能够理解简单的文字，并对故事情节产生兴趣。因此，可以选择一些篇幅稍长、内容更加丰富的阅读材料，并鼓励他们进行自主阅读，培养他们的独立阅读能力。同时，可以引导他们进行一些简单的阅读理解和思考，例如让他们复述故事内容、回答一些简单的问题等等。"},
+{"question": "文章中提到，早期阅读活动中，除了文字内容，还有什么要素非常重要？", "answer": "文章中提到，早期阅读活动中，除了文字内容，**阅读材料的印刷质量**非常重要。文章中多次强调了印刷清晰、色彩鲜艳的阅读材料能够更好地吸引孩子的目光，提升阅读体验，从而激发他们的阅读兴趣。因此，在选择早期阅读材料时，除了关注内容，也要重视其印刷质量。"},
+{"question": "文章中建议，在早期阅读中，我们应该鼓励孩子进行哪些尝试？", "answer": "文章中建议，在早期阅读中，我们应该鼓励孩子进行以下尝试：\n1. **尝试阅读一些篇幅短小、内容简单的书籍**： article中提到，可以选择一些篇幅较短、内容相对简单的书籍作为儿童的阅读起点，例如童谣、儿歌等，从而帮助他们建立阅读信心，培养阅读兴趣。
+2. **鼓励他们模仿阅读**：文章指出，在早期阅读阶段，可以鼓励孩子进行模仿阅读，例如跟着大人读，或者自己尝试复述故事内容，以此来锻炼他们的语言能力和阅读理解能力。"},
+{"question": "文章中提到的“图示阅读”指的是什么？", "answer": "文章中提到的“图示阅读”指的是**以图片为主要表现形式的阅读方式**。文章中强调了在早期阅读中，要重视阅读材料的印刷质量，其中就包括了“图示阅读”的方面，例如鲜艳的色彩、明亮的画面、简单的故事情节和可爱的情景等。因此，“图示阅读”可以理解为利用高质量的图片来吸引儿童的注意力，帮助他们理解故事内容，从而培养他们的阅读兴趣和能力。"},
+{"question": "文章中提到了哪些可以吸引孩子阅读兴趣的因素？", "answer": "文章中提到了以下可以吸引孩子阅读兴趣的因素：\n1. **鲜艳的色彩和明亮的画面**：文章多次强调了鲜艳的色彩和明亮的画面能够吸引孩子的注意力，这是吸引他们阅读的重要因素之一。
+2. **简单的故事情节和可爱的情景**：文章指出，对于早期学习阶段的儿童，选择具有简单故事情节和可爱情景的阅读材料，能够让他们更容易理解和接受，从而产生阅读兴趣。
+3. **对比强烈的色彩和鲜艳的颜色**：文章特别强调了对比强烈的色彩和鲜艳的颜色，认为这些能够有效地吸引儿童的目光，提升他们的阅读兴趣。
+4. **印刷清晰的阅读材料**：文章提到，印刷清晰的阅读材料能够让儿童更容易阅读，提升阅读体验，从而间接地提高他们的阅读兴趣。"},
+{"question": "文章中建议，我们在引导孩子进行早期阅读时，应该注意哪些方面？", "answer": "文章中建议，我们在引导孩子进行早期阅读时，应该注意以下方面：\n1. **选择合适的阅读材料**：要根据孩子的年龄和发育水平选择难度适宜、内容有趣、印刷质量好的阅读材料，例如可以选择一些篇幅短小、以图为主的书籍。
+2. **营造良好的阅读环境**：为孩子营造一个安静、舒适的阅读环境，让他们能够专心致志地阅读，例如可以在家中设置一个阅读角，准备一些舒适的坐垫和书籍。
+
+3. **鼓励和引导孩子进行阅读**：可以鼓励孩子进行模仿阅读、自主阅读，或者和孩子一起阅读，共同探讨故事内容，培养他们的阅读兴趣和习惯。
+
+4. **关注孩子的阅读反应**：在孩子阅读的过程中，要关注他们的反应，例如是否感兴趣、是否能够理解故事内容等等，及时调整阅读策略和选择阅读材料，以更好地满足孩子的阅读需求。
+5. **循序渐进地引导**：早期阅读是一个循序渐进的过程，要根据孩子的实际情况，逐步提高阅读难度和要求，帮助他们不断提升阅读能力。"}
+]
+```'
+2025-07-02 17:55:43,144 - QAGenerator - WARNING - Thread 53136 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:55:43,144 - QAGenerator - INFO - Thread 53136 - --- 正在为文件 '幼儿早期阅读兴趣的激发策略_戴薇.pdf' 的第 2/4 个文本块生成QA对 ---
+2025-07-02 17:55:48,280 - QAGenerator - INFO - Thread 74188 - 成功生成并添加了 10 个QA对。总数: 735
+2025-07-02 17:55:48,286 - QAGenerator - INFO - Thread 74188 - 进度已保存，当前总计 735 个。
+2025-07-02 17:55:48,287 - QAGenerator - INFO - Thread 74188 - --- 正在为文件 '疫苗接种.pdf' 的第 5/5 个文本块生成QA对 ---
+2025-07-02 17:55:49,231 - QAGenerator - INFO - Thread 35500 - 成功生成并添加了 10 个QA对。总数: 745
+2025-07-02 17:55:49,237 - QAGenerator - INFO - Thread 35500 - 进度已保存，当前总计 745 个。
+2025-07-02 17:55:49,380 - QAGenerator - WARNING - Thread 56196 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:49,382 - QAGenerator - INFO - Thread 56196 - 将在 8 秒后重试...
+2025-07-02 17:55:49,457 - QAGenerator - WARNING - Thread 16456 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:49,458 - QAGenerator - INFO - Thread 16456 - 将在 8 秒后重试...
+2025-07-02 17:55:50,548 - QAGenerator - WARNING - Thread 31856 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,549 - QAGenerator - INFO - Thread 31856 - 将在 8 秒后重试...
+2025-07-02 17:55:50,628 - QAGenerator - WARNING - Thread 62528 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,628 - QAGenerator - INFO - Thread 62528 - 将在 8 秒后重试...
+2025-07-02 17:55:50,703 - QAGenerator - WARNING - Thread 6916 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,703 - QAGenerator - INFO - Thread 6916 - 将在 8 秒后重试...
+2025-07-02 17:55:50,807 - QAGenerator - WARNING - Thread 54364 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,807 - QAGenerator - INFO - Thread 54364 - 将在 8 秒后重试...
+2025-07-02 17:55:50,844 - QAGenerator - WARNING - Thread 54536 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,844 - QAGenerator - INFO - Thread 54536 - 将在 8 秒后重试...
+2025-07-02 17:55:50,857 - QAGenerator - WARNING - Thread 1300 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,858 - QAGenerator - WARNING - Thread 54580 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,858 - QAGenerator - INFO - Thread 1300 - 将在 8 秒后重试...
+2025-07-02 17:55:50,858 - QAGenerator - INFO - Thread 54580 - 将在 8 秒后重试...
+2025-07-02 17:55:50,870 - QAGenerator - WARNING - Thread 36772 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,871 - QAGenerator - WARNING - Thread 29580 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,872 - QAGenerator - INFO - Thread 36772 - 将在 8 秒后重试...
+2025-07-02 17:55:50,873 - QAGenerator - WARNING - Thread 84508 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:50,873 - QAGenerator - INFO - Thread 29580 - 将在 8 秒后重试...
+2025-07-02 17:55:50,873 - QAGenerator - INFO - Thread 84508 - 将在 8 秒后重试...
+2025-07-02 17:55:52,723 - QAGenerator - INFO - Thread 46808 - 成功生成并添加了 10 个QA对。总数: 755
+2025-07-02 17:55:52,729 - QAGenerator - INFO - Thread 46808 - 进度已保存，当前总计 755 个。
+2025-07-02 17:55:52,730 - QAGenerator - INFO - Thread 46808 - --- 正在为文件 '儿童视力2.doc' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:55:58,437 - QAGenerator - WARNING - Thread 58960 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:55:58,437 - QAGenerator - INFO - Thread 58960 - 将在 8 秒后重试...
+2025-07-02 17:56:10,334 - QAGenerator - WARNING - Thread 71404 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:10,335 - QAGenerator - INFO - Thread 71404 - 将在 2 秒后重试...
+2025-07-02 17:56:20,606 - QAGenerator - INFO - Thread 54648 - 成功生成并添加了 10 个QA对。总数: 765
+2025-07-02 17:56:20,614 - QAGenerator - INFO - Thread 54648 - 进度已保存，当前总计 765 个。
+2025-07-02 17:56:23,743 - QAGenerator - INFO - Thread 66452 - 成功生成并添加了 10 个QA对。总数: 775
+2025-07-02 17:56:23,753 - QAGenerator - INFO - Thread 66452 - 进度已保存，当前总计 775 个。
+2025-07-02 17:56:28,879 - QAGenerator - WARNING - Thread 27716 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:28,880 - QAGenerator - INFO - Thread 27716 - 将在 2 秒后重试...
+2025-07-02 17:56:32,575 - QAGenerator - WARNING - Thread 58092 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:32,575 - QAGenerator - INFO - Thread 58092 - 将在 2 秒后重试...
+2025-07-02 17:56:33,475 - QAGenerator - WARNING - Thread 23016 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:33,476 - QAGenerator - INFO - Thread 23016 - 将在 4 秒后重试...
+2025-07-02 17:56:38,790 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:38,791 - QAGenerator - INFO - Thread 66424 - 将在 8 秒后重试...
+2025-07-02 17:56:40,914 - QAGenerator - WARNING - Thread 74600 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:40,915 - QAGenerator - INFO - Thread 74600 - 将在 4 秒后重试...
+2025-07-02 17:56:41,411 - QAGenerator - INFO - Thread 16456 - 成功生成并添加了 10 个QA对。总数: 785
+2025-07-02 17:56:41,421 - QAGenerator - INFO - Thread 16456 - 进度已保存，当前总计 785 个。
+2025-07-02 17:56:41,559 - QAGenerator - INFO - Thread 31856 - 成功生成并添加了 10 个QA对。总数: 795
+2025-07-02 17:56:41,568 - QAGenerator - INFO - Thread 31856 - 进度已保存，当前总计 795 个。
+2025-07-02 17:56:41,568 - QAGenerator - INFO - Thread 31856 - --- 正在为文件 '促进幼儿自主性与规则意识协调发展的教育策略_刘易.pdf' 的第 2/4 个文本块生成QA对 ---
+2025-07-02 17:56:43,038 - QAGenerator - ERROR - Thread 46808 - 模型返回的不是有效的JSON格式，或无法从中提取JSON。收到的内容是: '用户想要基于提供的文本片段生成10个问题和答案对。我需要严格遵循用户的所有指示，特别是关于答案必须完全来自文本、手把手的解释、JSON格式以及关于表格/流程的特定问题。
+
+让我们分解需求并规划生成对的过程：
+
+1. **理解文本结构：** 文本似乎描述了儿童眼科筛查流程。它包括标准、流程（图未显示）、工作要求和指标。
+2. **识别关键信息：** 我需要提取文本中的重要点以形成问题和答案。关键词包括“检查”、“可疑结构”、“婴儿”、“光照反应”、“瞬目反射”、“注视”、“跟随试验”、“视物行为异常”、“眼位检查”、“眼球运动检查”、“眼位偏斜”、“运动不协调”、“复查后视力”、“年龄”、“社区卫生服务中心”、“乡镇卫生院”、“眼部疾病筛查”、“视力评估”、“眼及视力保健”、“宣传教育”、“可疑眼病”、“视力低常”、“上级妇幼保健机构”、“专科门诊”、“医护人员”、“专业技术培训”、“培训合格证书”、“室内自然光线下”、“聚光手电灯”、“红球”、“遮眼板”、“国际标准视力表”、“对数视力表灯箱”、“检查记录”、“转诊结局的追访”、“视力检查覆盖率”。
+3. **构思问题类型：** 基于文本，我可以问：
+    * 哪些检查用于筛查？（基于第3点中的项目符号）
+    * 什么情况会导致转诊？（基于第3点中的项目符号）
+    * 谁进行筛查？（第5点 - 医护人员）
+    * 筛查的条件是什么？（第6点 - 场地、设备）
+    * 筛查的目的？（第7点 - 早期发现、转诊）
+    * 关于视力标准的问题？（第8点 - 视力标准）
+    * 关于流程的问题？（对于流程图部分）
+    * 关于工作要求的问题？（第9点 - 工作要求）
+    * 关于考核指标的问题？（第10点 - 覆盖率定义）
+4. **编写问题和答案：** 对于每个问题，我必须确保答案严格来自文本，并以详细的、逐步的格式呈现。我将使用项目符号来说明逐步指导。
+5. **流程图问题：** 文本提到了“流程图”。由于没有显示流程图，我将基于“流程”的文本描述（即使在文本中是隐含的）形成问题，重点关注筛查过程的各个步骤。
+6. **JSON格式：** 最终输出必须严格遵循JSON格式。我需要确保正确的大括号、引号和方括号。没有任何额外的文本或解释。
+
+**生成对的预计算/预分析：**
+
+* **问题1（检查）：** 关于使用哪些检查来筛选儿童眼病的问题。答案将列出第3点中描述的检查。
+* **问题2（转诊标准）：** 关于让孩子转诊的条件的问题。答案将列出第3点中的标准。
+* **问题3（谁进行筛查）：** 关于谁进行眼病筛查的问题。答案将在第5点中引用医护人员。
+* **问题4（筛查条件）：** 关于在哪里以及如何进行筛查的问题。答案将在第6点中包括地点和设备要求。
+* **问题5（筛查目的）：** 关于进行筛查的原因的问题。答案将在第7点中提到早期发现和转诊。
+* **问题6（视力标准）：** 关于不同年龄的视力期望的问题。答案将在第8点中列出年龄特定的视力标准。
+* **问题7（流程 - 提示流程图）：** 描述“流程图”中描述的筛选过程。答案将总结第4、5、7点中隐含的流程步骤。
+* **问题8（培训要求）：** 关于筛查人员所需的培训的问题。答案将在第5点中提到培训和证书。
+* **问题9（覆盖范围指标）：** 如何计算4-6岁儿童的视力检查覆盖率指标。答案将在第10点中解释该指标。
+* **问题10（行为评估）：** 评估儿童视觉行为的方法是什么？答案将基于第3点中列出的行为标准。
+
+**JSON格式示例：**
+
+```json
+[
+  {"question": "Q1", "answer": "A1"},
+  {"question": "Q2", "answer": "A2"},
+  ...
+]
+```
+
+现在我可以生成对，同时注意所有的约束条件。
+
+**生成答案时的自我修正/改进：**
+
+* **答案需要详细：** 确保每个答案都分解为多个项目符号，即使是简短的句子。这会使它们更像“分步说明”。
+* **仅基于文本：** 严格遵循用户的指示仅使用提供的文本，不要引入任何外部知识。
+* **清晰简洁：** 尽管要详细，但答案也应清晰简明，避免不必要的专业术语（除非在文本中使用）。
+
+让我们编写答案，保持所有这些考虑在内。<|end_of_thought|>```json
+[
+  {
+    "question": "社区卫生服务中心和乡镇卫生院在儿童健康检查时需要进行哪些眼部疾病筛查和视力评估？",
+    "answer": "在儿童健康检查的同时，社区卫生服务中心和乡镇卫生院需要进行与其年龄相应的眼部疾病筛查和视力评估，同时进行儿童眼及视力保健的宣传教育工作, 早期发现儿童的眼病和视力不良。 筛查内容包括：\n1. 检查发现可疑结构异常。\n2. 检查配合的婴儿经反复检测均不能引出光照反应及瞬目反射。\n3. 注视和跟随试验检查异常。\n4. 具有任何一种视物行为异常的表现。\n5. 眼位检查和眼球运动检查发现眼位偏斜或运动不协调。\n6. 复查后视力，4岁儿童≤0.6、5岁及以上儿童≤0.8，或两眼视力相差两行及以上。"
+  },
+  {
+    "question": "当儿童眼部疾病筛查结果可疑或视力低常时，应该如何处理？",
+    "answer": "对筛查出的可疑眼病或视力低常儿童，应当及时转诊至上级妇幼保健机构或其他医疗机构的相关专科门诊进一步诊治。"
+  },
+  {
+    "question": "从事儿童眼病筛查及视力评估的医护人员需要具备什么条件？",
+    "answer": "从事眼病筛查及视力评估工作的医护人员应当接受相关专业技术培训，并取得培训合格证书。"
+  },
+  {
+    "question": "儿童眼病筛查和视觉行为评估应该在什么样的环境下进行？需要哪些检查设备？",
+    "answer": "眼病筛查和视觉行为评估应当在室内自然光线下进行。 检查设备包括：电源能量充足的聚光手电灯、直径左右的红球、遮眼板。 视力检查设备包括：国际标准视力表或对数视力表灯箱。"
+  },
+  {
+    "question": "儿童眼病筛查和视力评估的工作目标是什么？",
+    "answer": "社区卫生服务中心和乡镇卫生院进行儿童眼部疾病筛查和视力评估的工作目标是：早期发现儿童的眼病和视力不良，并及时转诊至上级机构进行进一步诊治。 同时，还需要进行儿童眼及视力保健的宣传教育工作。"
+  },
+  {
+    "question": "4岁和5岁及以上儿童复查后视力的正常标准是多少？",
+    "answer": "复查后视力，4岁儿童正常标准是≤0.6，5岁及以上儿童正常标准是≤0.8。 此外，两眼视力相差两行及以上也被认为是异常。"
+  },
+  {
+    "question": "请描述一下儿童眼病筛查的流程？",
+    "answer": "儿童眼病筛查的流程大致如下：\n1. 在儿童健康检查时，社区卫生服务中心和乡镇卫生院进行眼部疾病筛查和视力评估，以及儿童眼及视力保健的宣传教育工作。（评估阶段）\n2. 对于筛查结果正常的儿童，继续进行常规健康检查和保健工作。（正常情况处理）\n3. 对于筛查结果可疑或视力低常的儿童，及时转诊至上一级妇幼保健机构或其他医疗机构的相关专科门诊进行进一步诊治。（异常情况处理）\n4.  对筛查和转诊的过程进行记录，并对转诊结果进行追访。（记录与追踪）"
+  },
+  {
+    "question": "如何判断一个4岁的儿童是否需要转诊进行进一步的眼科检查？",
+    "answer": "对于4岁的儿童，如果出现以下任何一种情况，则需要转诊进行进一步的眼科检查：\n1. 检查发现可疑结构异常。\n2. 检查配合的婴儿经反复检测均不能引出光照反应及瞬目反射。（针对更小年龄的婴儿，但也可能相关）\n3. 注视和跟随试验检查异常。\n4. 具有任何一种视物行为异常的表现。\n5. 眼位检查和眼球运动检查发现眼位偏斜或运动不协调。\n6. 复查后视力≤0.6，或两眼视力相差两行及以上。"
+  },
+  {
+    "question": "4～6岁儿童视力检查覆盖率是如何计算的？",
+    "answer": "4～6岁儿童视力检查覆盖率的计算公式是：\n（该年辖区内接受视力检查的4～6岁儿童人数 / 该年辖区内4～6岁儿童人数）× 100%。 这个指标用来衡量在目标人群中，有多少比例的儿童完成了视力检查。"
+  },
+  {
+    "question": "在儿童眼病筛查过程中，哪些行为表现可能提示儿童存在视物行为异常？",
+    "answer": "以下是一些可能提示儿童存在视物行为异常的表现：\n1. 注视物体不稳或不持久。\n2. 跟随物体移动的能力差。\n3. 对移动的物体反应迟钝或没有反应。\n4. 喜欢近距离观看物体，例如凑近屏幕或书本。\n5. 看东西时经常眯眼、歪头或斜视。\n6. 表现出对光线敏感或畏光。\n7. 经常揉眼睛、眨眼或抱怨眼睛不舒服（虽然这不总是视力问题，但也可能是症状）。  注意：这只是可能的表现，具体诊断需要专业医生进行评估。"
+  }
+]
+```'
+2025-07-02 17:56:43,047 - QAGenerator - WARNING - Thread 46808 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:56:43,398 - QAGenerator - INFO - Thread 6916 - 成功生成并添加了 10 个QA对。总数: 805
+2025-07-02 17:56:43,406 - QAGenerator - INFO - Thread 6916 - 进度已保存，当前总计 805 个。
+2025-07-02 17:56:43,655 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:43,656 - QAGenerator - INFO - Thread 53136 - 将在 2 秒后重试...
+2025-07-02 17:56:44,844 - QAGenerator - WARNING - Thread 63236 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:44,844 - QAGenerator - INFO - Thread 63236 - 将在 8 秒后重试...
+2025-07-02 17:56:47,349 - QAGenerator - INFO - Thread 56196 - 成功生成并添加了 10 个QA对。总数: 815
+2025-07-02 17:56:47,356 - QAGenerator - INFO - Thread 56196 - 进度已保存，当前总计 815 个。
+2025-07-02 17:56:47,356 - QAGenerator - INFO - Thread 56196 - --- 正在为文件 '一.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:56:48,741 - QAGenerator - WARNING - Thread 74188 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:48,741 - QAGenerator - INFO - Thread 74188 - 将在 2 秒后重试...
+2025-07-02 17:56:49,099 - QAGenerator - INFO - Thread 54536 - 成功生成并添加了 6 个QA对。总数: 821
+2025-07-02 17:56:49,104 - QAGenerator - INFO - Thread 54536 - 进度已保存，当前总计 821 个。
+2025-07-02 17:56:49,105 - QAGenerator - INFO - Thread 54536 - --- 正在为文件 '《关于进一步完善和落实积极生育支持措施的指导意见》解读问答.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:56:58,428 - QAGenerator - INFO - Thread 36772 - 成功生成并添加了 10 个QA对。总数: 831
+2025-07-02 17:56:58,433 - QAGenerator - INFO - Thread 36772 - 进度已保存，当前总计 831 个。
+2025-07-02 17:56:58,433 - QAGenerator - INFO - Thread 36772 - --- 正在为文件 '关于组织申报2024年中央财政支持普惠托育服务发展示范项目的通知.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:56:59,618 - QAGenerator - WARNING - Thread 62528 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:59,619 - QAGenerator - INFO - Thread 62528 - 将在 16 秒后重试...
+2025-07-02 17:56:59,895 - QAGenerator - WARNING - Thread 1300 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:59,896 - QAGenerator - INFO - Thread 1300 - 将在 16 秒后重试...
+2025-07-02 17:56:59,911 - QAGenerator - WARNING - Thread 54364 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:59,911 - QAGenerator - INFO - Thread 54364 - 将在 16 秒后重试...
+2025-07-02 17:56:59,915 - QAGenerator - WARNING - Thread 29580 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:59,915 - QAGenerator - INFO - Thread 29580 - 将在 16 秒后重试...
+2025-07-02 17:56:59,944 - QAGenerator - WARNING - Thread 84508 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:59,944 - QAGenerator - INFO - Thread 84508 - 将在 16 秒后重试...
+2025-07-02 17:56:59,949 - QAGenerator - WARNING - Thread 54580 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:56:59,949 - QAGenerator - INFO - Thread 54580 - 将在 16 秒后重试...
+2025-07-02 17:57:07,024 - QAGenerator - INFO - Thread 23016 - 成功生成并添加了 10 个QA对。总数: 841
+2025-07-02 17:57:07,030 - QAGenerator - INFO - Thread 23016 - 进度已保存，当前总计 841 个。
+2025-07-02 17:57:07,030 - QAGenerator - INFO - Thread 23016 - --- 正在为文件 '幼儿身长与体重标准表.pdf' 的第 3/3 个文本块生成QA对 ---
+2025-07-02 17:57:12,970 - QAGenerator - WARNING - Thread 71404 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:57:12,971 - QAGenerator - INFO - Thread 71404 - 将在 4 秒后重试...
+2025-07-02 17:57:21,201 - QAGenerator - INFO - Thread 31856 - 成功生成并添加了 10 个QA对。总数: 851
+2025-07-02 17:57:21,207 - QAGenerator - INFO - Thread 31856 - 进度已保存，当前总计 851 个。
+2025-07-02 17:57:21,207 - QAGenerator - INFO - Thread 31856 - --- 正在为文件 '促进幼儿自主性与规则意识协调发展的教育策略_刘易.pdf' 的第 3/4 个文本块生成QA对 ---
+2025-07-02 17:57:24,106 - QAGenerator - INFO - Thread 63236 - 成功生成并添加了 10 个QA对。总数: 861
+2025-07-02 17:57:24,115 - QAGenerator - INFO - Thread 63236 - 进度已保存，当前总计 861 个。
+2025-07-02 17:57:24,115 - QAGenerator - INFO - Thread 63236 - --- 正在为文件 '续表.pdf' 的第 3/3 个文本块生成QA对 ---
+2025-07-02 17:57:26,008 - QAGenerator - INFO - Thread 54536 - 成功生成并添加了 10 个QA对。总数: 871
+2025-07-02 17:57:26,014 - QAGenerator - INFO - Thread 54536 - 进度已保存，当前总计 871 个。
+2025-07-02 17:57:27,698 - QAGenerator - INFO - Thread 58092 - 成功生成并添加了 10 个QA对。总数: 881
+2025-07-02 17:57:27,705 - QAGenerator - INFO - Thread 58092 - 进度已保存，当前总计 881 个。
+2025-07-02 17:57:31,435 - QAGenerator - WARNING - Thread 27716 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:57:31,435 - QAGenerator - INFO - Thread 27716 - 将在 4 秒后重试...
+2025-07-02 17:57:45,531 - QAGenerator - WARNING - Thread 74600 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:57:45,531 - QAGenerator - INFO - Thread 74600 - 将在 8 秒后重试...
+2025-07-02 17:57:46,227 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:57:46,228 - QAGenerator - INFO - Thread 53136 - 将在 4 秒后重试...
+2025-07-02 17:57:47,272 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:57:47,272 - QAGenerator - INFO - Thread 66424 - 将在 16 秒后重试...
+2025-07-02 17:57:47,815 - QAGenerator - WARNING - Thread 56196 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:57:47,816 - QAGenerator - INFO - Thread 56196 - 将在 2 秒后重试...
+2025-07-02 17:57:50,632 - QAGenerator - WARNING - Thread 78136 - API调用或解析在第 3/5 次尝试时失败: HTTPSConnectionPool(host='jiutian.10086.cn', port=443): Read timed out. (read timeout=180)
+2025-07-02 17:57:50,633 - QAGenerator - INFO - Thread 78136 - 将在 8 秒后重试...
+2025-07-02 17:57:51,180 - QAGenerator - WARNING - Thread 74188 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:57:51,182 - QAGenerator - INFO - Thread 74188 - 将在 4 秒后重试...
+2025-07-02 17:57:57,965 - QAGenerator - INFO - Thread 84508 - 成功生成并添加了 10 个QA对。总数: 891
+2025-07-02 17:57:57,972 - QAGenerator - INFO - Thread 84508 - 进度已保存，当前总计 891 个。
+2025-07-02 17:57:57,973 - QAGenerator - INFO - Thread 84508 - --- 正在为文件 '卫生健康委 发展改革委 中央宣传部 教育部 民政部.docx' 的第 2/3 个文本块生成QA对 ---
+2025-07-02 17:57:58,904 - QAGenerator - WARNING - Thread 36772 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:57:58,904 - QAGenerator - INFO - Thread 36772 - 将在 2 秒后重试...
+2025-07-02 17:58:02,310 - QAGenerator - INFO - Thread 63236 - 成功生成并添加了 10 个QA对。总数: 901
+2025-07-02 17:58:02,317 - QAGenerator - INFO - Thread 63236 - 进度已保存，当前总计 901 个。
+2025-07-02 17:58:07,499 - QAGenerator - WARNING - Thread 23016 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:07,499 - QAGenerator - INFO - Thread 23016 - 将在 2 秒后重试...
+2025-07-02 17:58:15,013 - QAGenerator - INFO - Thread 1300 - 成功生成并添加了 10 个QA对。总数: 911
+2025-07-02 17:58:15,022 - QAGenerator - INFO - Thread 1300 - 进度已保存，当前总计 911 个。
+2025-07-02 17:58:15,023 - QAGenerator - INFO - Thread 1300 - --- 正在为文件 '国务院办公厅关于促进.docx' 的第 2/3 个文本块生成QA对 ---
+2025-07-02 17:58:16,091 - QAGenerator - WARNING - Thread 62528 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:16,092 - QAGenerator - ERROR - Thread 62528 - API调用在所有 5 次尝试后均失败。
+2025-07-02 17:58:16,092 - QAGenerator - ERROR - Thread 62528 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-02 17:58:16,093 - QAGenerator - WARNING - Thread 62528 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:58:16,094 - QAGenerator - INFO - Thread 62528 - --- 正在为文件 '国务院办公厅关于加快完善生育支持政策体系推动建设生育友好型社会的若干措施.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:58:16,670 - QAGenerator - WARNING - Thread 29580 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:16,670 - QAGenerator - ERROR - Thread 29580 - API调用在所有 5 次尝试后均失败。
+2025-07-02 17:58:16,671 - QAGenerator - ERROR - Thread 29580 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-02 17:58:16,672 - QAGenerator - WARNING - Thread 29580 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:58:16,672 - QAGenerator - INFO - Thread 29580 - --- 正在为文件 '教育部办公厅 国家卫生健康委办公厅 国家疾控局综合司关于切实抓牢幼儿园和小学近视防控关键阶段防控工作的通知.docx' 的第 2/2 个文本块生成QA对 ---
+2025-07-02 17:58:16,685 - QAGenerator - WARNING - Thread 54364 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:16,685 - QAGenerator - ERROR - Thread 54364 - API调用在所有 5 次尝试后均失败。
+2025-07-02 17:58:16,685 - QAGenerator - ERROR - Thread 54364 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-02 17:58:16,685 - QAGenerator - WARNING - Thread 54364 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:58:16,781 - QAGenerator - WARNING - Thread 54580 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:16,781 - QAGenerator - ERROR - Thread 54580 - API调用在所有 5 次尝试后均失败。
+2025-07-02 17:58:16,781 - QAGenerator - ERROR - Thread 54580 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-02 17:58:16,782 - QAGenerator - WARNING - Thread 54580 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:58:16,782 - QAGenerator - INFO - Thread 54580 - --- 正在为文件 '促进3岁以下婴幼儿照护服务发展  .docx' 的第 2/3 个文本块生成QA对 ---
+2025-07-02 17:58:17,489 - QAGenerator - WARNING - Thread 71404 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:17,490 - QAGenerator - INFO - Thread 71404 - 将在 8 秒后重试...
+2025-07-02 17:58:21,686 - QAGenerator - WARNING - Thread 31856 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:21,686 - QAGenerator - INFO - Thread 31856 - 将在 2 秒后重试...
+2025-07-02 17:58:35,939 - QAGenerator - WARNING - Thread 27716 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:35,939 - QAGenerator - INFO - Thread 27716 - 将在 8 秒后重试...
+2025-07-02 17:58:36,344 - QAGenerator - ERROR - Thread 29580 - 模型返回的不是有效的JSON格式，或无法从中提取JSON。收到的内容是: '教师和家长在儿童近视防控中扮演重要角色。教师应关注学生视力健康，定期开展视力检查，引导学生养成良好的用眼习惯，例如保持正确的阅读姿势、控制使用电子产品的时间、保证充足的睡眠等。家长应为孩子提供良好的家庭学习环境，鼓励孩子参加户外活动，限制孩子使用电子产品的时间，并定期带孩子进行视力检查。
+<|end_of_thought|>这里是一些基于提供文本片段的高质量问答对：
+
+1. **问题：** 教育部、国家卫健委和国家疾控局联合发布了关于儿童青少年近视防控的重要文件，请问这些文件的具体名称是什么？
+    **回答：**
+        * 这份文件指的是：《综合防控儿童青少年近视实施方案》。
+        * 这份文件指的是：《儿童青少年近视防控光明行动工作方案（2021—2025年）》。
+
+2. **问题：** 为了防控儿童青少年近视，国家多部门联合发布了通知，请问发布日期是哪一天？
+    **回答：**  这份通知的发布时间是：2024年10月21日。
+
+3. **问题：**  文字中提到了“五项”管理，请问这“五项”管理具体指的是哪五个方面？
+    **回答：**  “五项”管理具体指的是以下五个方面：
+        * 小学生手机管理
+        * 小学生睡眠管理
+        * 小学生作业管理
+        * 小学生读物管理
+        * 小学生体质管理
+
+4. **问题：**  为了防控儿童青少年近视，文件中对幼儿园和小学提出了“小学化”教育或培训的要求，请问具体要求是什么？
+    **回答：**  文件中明确要求幼儿园的幼儿教育要坚决抵制“小学化”，不能以“小小班”等名义提前进行小学阶段的教育或培训。
+
+5. **问题：**  文件中强调了课后服务的重要性，请问课后服务在促进学生身心健康方面应该发挥什么作用？
+    **回答：**  课后服务应该丰富内容，确保学生能够在课后服务时间内得到适当的休息和放松，促进学生的身心健康。
+
+6. **问题：**  文件中对小学生使用电子产品提出了具体要求，请问这些要求是什么？
+    **回答：**  文件中要求：
+        * 幼儿应尽量减少使用电子产品。
+        * 引导小学生科学规范使用电子产品，养成信息化环境下良好的学习和用眼卫生习惯。
+        * 小学教育本着按需的原则合理使用电子产品，教学和布置作业不依赖电子产品。
+        * 使用电子产品开展教学时长原则上不超过教学总时长的30%。
+        * 原则上采用纸质作业。
+
+7. **问题：**  文件中对学校的作息时间和学生的睡眠时间提出了要求，请问这些要求具体是什么？
+    **回答：**  文件中要求：
+        * 合理安排学校作息时间。
+        * 引导学生做好睡眠管理。
+        * 保证幼儿每天睡眠时间10小时以上。
+        * 小学生每天睡眠时间达到10小时。
+
+8. **问题：**  文件中对小学的作业管理提出了具体要求，请问这些要求是什么？
+    **回答：**  文件中要求：
+        * 严格按照“零起点”正常教学。
+        * 小学一二年级不布置书面家庭作业。
+        * 三至六年级书面作业完成时间不得超过60分钟。
+
+9. **问题：**  文件中强调了体育与健康课的重要性，请问学校应该怎样做？
+    **回答：**  学校应该：
+        * 开齐开足上好体育与健康课。
+        * 推进体育教学改革。
+        * 做好体质健康监测。
+        * 完善体质管理体系。
+
+10. **问题：**  为了防控儿童青少年近视，各地教育行政部门需要与哪个部门协同合作，共同推进相关工作？
+    **回答：**  各地教育行政部门需要与卫生健康行政部门加强协同合作，共同推进儿童青少年近视防控工作。'
+2025-07-02 17:58:36,350 - QAGenerator - WARNING - Thread 29580 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:58:40,892 - QAGenerator - INFO - Thread 56196 - 成功生成并添加了 10 个QA对。总数: 921
+2025-07-02 17:58:40,902 - QAGenerator - INFO - Thread 56196 - 进度已保存，当前总计 921 个。
+2025-07-02 17:58:42,916 - QAGenerator - INFO - Thread 74188 - 成功生成并添加了 10 个QA对。总数: 931
+2025-07-02 17:58:42,924 - QAGenerator - INFO - Thread 74188 - 进度已保存，当前总计 931 个。
+2025-07-02 17:58:47,121 - QAGenerator - INFO - Thread 84508 - 成功生成并添加了 10 个QA对。总数: 941
+2025-07-02 17:58:47,129 - QAGenerator - INFO - Thread 84508 - 进度已保存，当前总计 941 个。
+2025-07-02 17:58:47,131 - QAGenerator - INFO - Thread 84508 - --- 正在为文件 '卫生健康委 发展改革委 中央宣传部 教育部 民政部.docx' 的第 3/3 个文本块生成QA对 ---
+2025-07-02 17:58:50,762 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:50,763 - QAGenerator - INFO - Thread 53136 - 将在 8 秒后重试...
+2025-07-02 17:58:52,293 - QAGenerator - INFO - Thread 23016 - 成功生成并添加了 10 个QA对。总数: 951
+2025-07-02 17:58:52,305 - QAGenerator - INFO - Thread 23016 - 进度已保存，当前总计 951 个。
+2025-07-02 17:58:53,169 - QAGenerator - INFO - Thread 74600 - 成功生成并添加了 10 个QA对。总数: 961
+2025-07-02 17:58:53,180 - QAGenerator - INFO - Thread 74600 - 进度已保存，当前总计 961 个。
+2025-07-02 17:58:53,180 - QAGenerator - INFO - Thread 74600 - --- 正在为文件 '婴儿健康用品资料.doc' 的第 3/4 个文本块生成QA对 ---
+2025-07-02 17:58:58,334 - QAGenerator - INFO - Thread 36772 - 成功生成并添加了 10 个QA对。总数: 971
+2025-07-02 17:58:58,343 - QAGenerator - INFO - Thread 36772 - 进度已保存，当前总计 971 个。
+2025-07-02 17:58:58,351 - QAGenerator - INFO - Thread 1300 - 成功生成并添加了 10 个QA对。总数: 981
+2025-07-02 17:58:58,364 - QAGenerator - INFO - Thread 1300 - 进度已保存，当前总计 981 个。
+2025-07-02 17:58:58,364 - QAGenerator - INFO - Thread 1300 - --- 正在为文件 '国务院办公厅关于促进.docx' 的第 3/3 个文本块生成QA对 ---
+2025-07-02 17:58:59,187 - QAGenerator - WARNING - Thread 78136 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:58:59,188 - QAGenerator - INFO - Thread 78136 - 将在 16 秒后重试...
+2025-07-02 17:59:03,829 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:59:03,830 - QAGenerator - ERROR - Thread 66424 - API调用在所有 5 次尝试后均失败。
+2025-07-02 17:59:03,831 - QAGenerator - ERROR - Thread 66424 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-02 17:59:03,832 - QAGenerator - WARNING - Thread 66424 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 17:59:03,832 - QAGenerator - INFO - Thread 66424 - --- 正在为文件 '政府工作报告.docx' 的第 3/8 个文本块生成QA对 ---
+2025-07-02 17:59:06,802 - QAGenerator - WARNING - Thread 58960 - API调用或解析在第 4/5 次尝试时失败: HTTPSConnectionPool(host='jiutian.10086.cn', port=443): Read timed out. (read timeout=180)
+2025-07-02 17:59:06,802 - QAGenerator - INFO - Thread 58960 - 将在 16 秒后重试...
+2025-07-02 17:59:11,293 - QAGenerator - INFO - Thread 54580 - 成功生成并添加了 10 个QA对。总数: 991
+2025-07-02 17:59:11,303 - QAGenerator - INFO - Thread 54580 - 进度已保存，当前总计 991 个。
+2025-07-02 17:59:11,303 - QAGenerator - INFO - Thread 54580 - --- 正在为文件 '促进3岁以下婴幼儿照护服务发展  .docx' 的第 3/3 个文本块生成QA对 ---
+2025-07-02 17:59:15,908 - QAGenerator - INFO - Thread 31856 - 成功生成并添加了 10 个QA对。总数: 1001
+2025-07-02 17:59:15,915 - QAGenerator - INFO - Thread 31856 - 进度已保存，当前总计 1001 个。
+2025-07-02 17:59:15,915 - QAGenerator - INFO - Thread 31856 - --- 正在为文件 '促进幼儿自主性与规则意识协调发展的教育策略_刘易.pdf' 的第 4/4 个文本块生成QA对 ---
+2025-07-02 17:59:16,631 - QAGenerator - WARNING - Thread 62528 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:59:16,631 - QAGenerator - INFO - Thread 62528 - 将在 2 秒后重试...
+2025-07-02 17:59:18,712 - QAGenerator - INFO - Thread 71404 - 成功生成并添加了 10 个QA对。总数: 1011
+2025-07-02 17:59:18,720 - QAGenerator - INFO - Thread 71404 - 进度已保存，当前总计 1011 个。
+2025-07-02 17:59:18,721 - QAGenerator - INFO - Thread 71404 - --- 正在为文件 '婴幼儿营养喂养评估服务指南.docx' 的第 5/5 个文本块生成QA对 ---
+2025-07-02 17:59:39,560 - QAGenerator - INFO - Thread 74600 - 成功生成并添加了 10 个QA对。总数: 1021
+2025-07-02 17:59:39,572 - QAGenerator - INFO - Thread 74600 - 进度已保存，当前总计 1021 个。
+2025-07-02 17:59:39,574 - QAGenerator - INFO - Thread 74600 - --- 正在为文件 '婴儿健康用品资料.doc' 的第 4/4 个文本块生成QA对 ---
+2025-07-02 17:59:44,502 - QAGenerator - WARNING - Thread 27716 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:59:44,504 - QAGenerator - INFO - Thread 27716 - 将在 16 秒后重试...
+2025-07-02 17:59:47,674 - QAGenerator - WARNING - Thread 84508 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:59:47,674 - QAGenerator - INFO - Thread 84508 - 将在 2 秒后重试...
+2025-07-02 17:59:56,625 - QAGenerator - INFO - Thread 62528 - 成功生成并添加了 10 个QA对。总数: 1031
+2025-07-02 17:59:56,635 - QAGenerator - INFO - Thread 62528 - 进度已保存，当前总计 1031 个。
+2025-07-02 17:59:58,858 - QAGenerator - WARNING - Thread 1300 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 17:59:58,859 - QAGenerator - INFO - Thread 1300 - 将在 2 秒后重试...
+2025-07-02 17:59:59,992 - QAGenerator - INFO - Thread 66424 - 成功生成并添加了 10 个QA对。总数: 1041
+2025-07-02 18:00:00,003 - QAGenerator - INFO - Thread 66424 - 进度已保存，当前总计 1041 个。
+2025-07-02 18:00:00,004 - QAGenerator - INFO - Thread 66424 - --- 正在为文件 '政府工作报告.docx' 的第 4/8 个文本块生成QA对 ---
+2025-07-02 18:00:02,563 - QAGenerator - INFO - Thread 31856 - 成功生成并添加了 10 个QA对。总数: 1051
+2025-07-02 18:00:02,574 - QAGenerator - INFO - Thread 31856 - 进度已保存，当前总计 1051 个。
+2025-07-02 18:00:04,702 - QAGenerator - INFO - Thread 71404 - 成功生成并添加了 10 个QA对。总数: 1061
+2025-07-02 18:00:04,712 - QAGenerator - INFO - Thread 71404 - 进度已保存，当前总计 1061 个。
+2025-07-02 18:00:11,746 - QAGenerator - WARNING - Thread 54580 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:00:11,746 - QAGenerator - INFO - Thread 54580 - 将在 2 秒后重试...
+2025-07-02 18:00:15,689 - QAGenerator - WARNING - Thread 78136 - API调用或解析在第 5/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:00:15,690 - QAGenerator - ERROR - Thread 78136 - API调用在所有 5 次尝试后均失败。
+2025-07-02 18:00:15,690 - QAGenerator - ERROR - Thread 78136 - 最后一次失败的原始返回内容: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2025-07-02 18:00:15,691 - QAGenerator - WARNING - Thread 78136 - 为当前块生成QA对失败或返回格式不正确，跳过。
+2025-07-02 18:00:15,691 - QAGenerator - INFO - Thread 78136 - --- 正在为文件 '关于进一步完善和落实积极生育支持措施的指导意见.docx' 的第 2/3 个文本块生成QA对 ---
+2025-07-02 18:00:21,269 - QAGenerator - WARNING - Thread 58960 - API返回了列表，但其中不包含有效的QA对。
+2025-07-02 18:00:21,269 - QAGenerator - INFO - Thread 58960 - --- 正在为文件 '儿童心理.doc' 的第 2/3 个文本块生成QA对 ---
+2025-07-02 18:00:27,452 - QAGenerator - INFO - Thread 84508 - 成功生成并添加了 10 个QA对。总数: 1071
+2025-07-02 18:00:27,460 - QAGenerator - INFO - Thread 84508 - 进度已保存，当前总计 1071 个。
+2025-07-02 18:00:39,935 - QAGenerator - INFO - Thread 27716 - 成功生成并添加了 10 个QA对。总数: 1081
+2025-07-02 18:00:39,942 - QAGenerator - INFO - Thread 27716 - 进度已保存，当前总计 1081 个。
+2025-07-02 18:00:40,180 - QAGenerator - WARNING - Thread 74600 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:00:40,181 - QAGenerator - INFO - Thread 74600 - 将在 2 秒后重试...
+2025-07-02 18:00:40,324 - QAGenerator - INFO - Thread 1300 - 成功生成并添加了 10 个QA对。总数: 1091
+2025-07-02 18:00:40,332 - QAGenerator - INFO - Thread 1300 - 进度已保存，当前总计 1091 个。
+2025-07-02 18:01:00,611 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:01:00,611 - QAGenerator - INFO - Thread 66424 - 将在 2 秒后重试...
+2025-07-02 18:01:05,121 - QAGenerator - INFO - Thread 78136 - 成功生成并添加了 10 个QA对。总数: 1101
+2025-07-02 18:01:05,128 - QAGenerator - INFO - Thread 78136 - 进度已保存，当前总计 1101 个。
+2025-07-02 18:01:05,129 - QAGenerator - INFO - Thread 78136 - --- 正在为文件 '关于进一步完善和落实积极生育支持措施的指导意见.docx' 的第 3/3 个文本块生成QA对 ---
+2025-07-02 18:01:14,283 - QAGenerator - WARNING - Thread 54580 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:01:14,284 - QAGenerator - INFO - Thread 54580 - 将在 4 秒后重试...
+2025-07-02 18:01:21,866 - QAGenerator - WARNING - Thread 58960 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:01:21,866 - QAGenerator - INFO - Thread 58960 - 将在 2 秒后重试...
+2025-07-02 18:01:33,275 - QAGenerator - INFO - Thread 78136 - 成功生成并添加了 10 个QA对。总数: 1111
+2025-07-02 18:01:33,285 - QAGenerator - INFO - Thread 78136 - 进度已保存，当前总计 1111 个。
+2025-07-02 18:01:42,679 - QAGenerator - WARNING - Thread 74600 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:01:42,680 - QAGenerator - INFO - Thread 74600 - 将在 4 秒后重试...
+2025-07-02 18:01:59,186 - QAGenerator - INFO - Thread 58960 - 成功生成并添加了 10 个QA对。总数: 1121
+2025-07-02 18:01:59,196 - QAGenerator - INFO - Thread 58960 - 进度已保存，当前总计 1121 个。
+2025-07-02 18:01:59,196 - QAGenerator - INFO - Thread 58960 - --- 正在为文件 '儿童心理.doc' 的第 3/3 个文本块生成QA对 ---
+2025-07-02 18:01:59,200 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 4/5 次尝试时失败: HTTPSConnectionPool(host='jiutian.10086.cn', port=443): Read timed out. (read timeout=180)
+2025-07-02 18:01:59,200 - QAGenerator - INFO - Thread 53136 - 将在 16 秒后重试...
+2025-07-02 18:02:03,092 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:02:03,093 - QAGenerator - INFO - Thread 66424 - 将在 4 秒后重试...
+2025-07-02 18:02:15,455 - QAGenerator - INFO - Thread 54580 - 成功生成并添加了 10 个QA对。总数: 1131
+2025-07-02 18:02:15,463 - QAGenerator - INFO - Thread 54580 - 进度已保存，当前总计 1131 个。
+2025-07-02 18:02:32,597 - QAGenerator - INFO - Thread 74600 - 成功生成并添加了 10 个QA对。总数: 1141
+2025-07-02 18:02:32,608 - QAGenerator - INFO - Thread 74600 - 进度已保存，当前总计 1141 个。
+2025-07-02 18:02:46,072 - QAGenerator - INFO - Thread 53136 - 成功生成并添加了 10 个QA对。总数: 1151
+2025-07-02 18:02:46,081 - QAGenerator - INFO - Thread 53136 - 进度已保存，当前总计 1151 个。
+2025-07-02 18:02:46,081 - QAGenerator - INFO - Thread 53136 - --- 正在为文件 '幼儿早期阅读兴趣的激发策略_戴薇.pdf' 的第 3/4 个文本块生成QA对 ---
+2025-07-02 18:02:59,675 - QAGenerator - WARNING - Thread 58960 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:02:59,675 - QAGenerator - INFO - Thread 58960 - 将在 2 秒后重试...
+2025-07-02 18:03:07,634 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:03:07,634 - QAGenerator - INFO - Thread 66424 - 将在 8 秒后重试...
+2025-07-02 18:03:46,598 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:03:46,598 - QAGenerator - INFO - Thread 53136 - 将在 2 秒后重试...
+2025-07-02 18:04:11,919 - QAGenerator - INFO - Thread 66424 - 成功生成并添加了 10 个QA对。总数: 1161
+2025-07-02 18:04:11,933 - QAGenerator - INFO - Thread 66424 - 进度已保存，当前总计 1161 个。
+2025-07-02 18:04:11,933 - QAGenerator - INFO - Thread 66424 - --- 正在为文件 '政府工作报告.docx' 的第 5/8 个文本块生成QA对 ---
+2025-07-02 18:04:49,181 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:04:49,182 - QAGenerator - INFO - Thread 53136 - 将在 4 秒后重试...
+2025-07-02 18:05:12,555 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:05:12,555 - QAGenerator - INFO - Thread 66424 - 将在 2 秒后重试...
+2025-07-02 18:05:53,768 - QAGenerator - WARNING - Thread 53136 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:05:53,769 - QAGenerator - INFO - Thread 53136 - 将在 8 秒后重试...
+2025-07-02 18:06:02,055 - QAGenerator - WARNING - Thread 58960 - API调用或解析在第 2/5 次尝试时失败: HTTPSConnectionPool(host='jiutian.10086.cn', port=443): Read timed out. (read timeout=180)
+2025-07-02 18:06:02,056 - QAGenerator - INFO - Thread 58960 - 将在 4 秒后重试...
+2025-07-02 18:06:15,164 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:06:15,164 - QAGenerator - INFO - Thread 66424 - 将在 4 秒后重试...
+2025-07-02 18:06:32,383 - QAGenerator - INFO - Thread 58960 - 成功生成并添加了 10 个QA对。总数: 1171
+2025-07-02 18:06:32,395 - QAGenerator - INFO - Thread 58960 - 进度已保存，当前总计 1171 个。
+2025-07-02 18:06:44,672 - QAGenerator - INFO - Thread 53136 - 成功生成并添加了 10 个QA对。总数: 1181
+2025-07-02 18:06:44,688 - QAGenerator - INFO - Thread 53136 - 进度已保存，当前总计 1181 个。
+2025-07-02 18:06:44,688 - QAGenerator - INFO - Thread 53136 - --- 正在为文件 '幼儿早期阅读兴趣的激发策略_戴薇.pdf' 的第 4/4 个文本块生成QA对 ---
+2025-07-02 18:07:19,798 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 3/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:07:19,799 - QAGenerator - INFO - Thread 66424 - 将在 8 秒后重试...
+2025-07-02 18:07:28,717 - QAGenerator - INFO - Thread 53136 - 成功生成并添加了 10 个QA对。总数: 1191
+2025-07-02 18:07:28,725 - QAGenerator - INFO - Thread 53136 - 进度已保存，当前总计 1191 个。
+2025-07-02 18:08:28,349 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 4/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:08:28,350 - QAGenerator - INFO - Thread 66424 - 将在 16 秒后重试...
+2025-07-02 18:09:38,524 - QAGenerator - INFO - Thread 66424 - 成功生成并添加了 10 个QA对。总数: 1201
+2025-07-02 18:09:38,536 - QAGenerator - INFO - Thread 66424 - 进度已保存，当前总计 1201 个。
+2025-07-02 18:09:38,536 - QAGenerator - INFO - Thread 66424 - --- 正在为文件 '政府工作报告.docx' 的第 6/8 个文本块生成QA对 ---
+2025-07-02 18:10:38,084 - QAGenerator - INFO - Thread 66424 - 成功生成并添加了 10 个QA对。总数: 1211
+2025-07-02 18:10:38,097 - QAGenerator - INFO - Thread 66424 - 进度已保存，当前总计 1211 个。
+2025-07-02 18:10:38,098 - QAGenerator - INFO - Thread 66424 - --- 正在为文件 '政府工作报告.docx' 的第 7/8 个文本块生成QA对 ---
+2025-07-02 18:11:38,698 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 1/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:11:38,700 - QAGenerator - INFO - Thread 66424 - 将在 2 秒后重试...
+2025-07-02 18:12:41,327 - QAGenerator - WARNING - Thread 66424 - API调用或解析在第 2/5 次尝试时失败: 504 Server Error: Gateway Time-out for url: https://jiutian.10086.cn/largemodel/api/v3/chat/completions
+2025-07-02 18:12:41,327 - QAGenerator - INFO - Thread 66424 - 将在 4 秒后重试...
+2025-07-02 18:13:29,906 - QAGenerator - INFO - Thread 66424 - 成功生成并添加了 10 个QA对。总数: 1221
+2025-07-02 18:13:29,917 - QAGenerator - INFO - Thread 66424 - 进度已保存，当前总计 1221 个。
+2025-07-02 18:13:29,917 - QAGenerator - INFO - Thread 66424 - --- 正在为文件 '政府工作报告.docx' 的第 8/8 个文本块生成QA对 ---
+2025-07-02 18:13:59,960 - QAGenerator - INFO - Thread 66424 - 成功生成并添加了 10 个QA对。总数: 1231
+2025-07-02 18:13:59,971 - QAGenerator - INFO - Thread 66424 - 进度已保存，当前总计 1231 个。
+2025-07-02 18:14:00,038 - QAGenerator - INFO - Thread 67624 - --- 全部文件处理完毕！最终生成了 1231 个QA对。---
